@@ -1,23 +1,5 @@
 [
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-02-1.jpg",
         "true_label": "Amblyomma americanum",
         "sample_id": "ZOE-0013-02",
@@ -36,24 +18,6 @@
         "attached": "No"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-04-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0013-04",
@@ -70,78 +34,6 @@
         "sex": "Female",
         "life_stage": "Adult",
         "attached": "No"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-05-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-05-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-06-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-06-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-06",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-07-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-07",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-07-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-07",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-08-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-08",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-08-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-08",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-09-1.jpg",
@@ -192,60 +84,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-11-2.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0013-11",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-12-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-12",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-12-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-12",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-13-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-13",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-13-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-13",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-14-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-14",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0013-14-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0013-14",
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
@@ -414,24 +252,6 @@
         "attached": "Yes"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-10-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0014-10",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-10-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0014-10",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-11-01.jpg",
         "true_label": "Amblyomma americanum",
         "sample_id": "ZOE-0014-11",
@@ -574,24 +394,6 @@
         "sex": "Male",
         "life_stage": "Adult",
         "attached": "No"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-19-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0014-19",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-19-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0014-19",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0014-20-01.jpg",
@@ -756,24 +558,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0022-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0022-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0022-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0022-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0022-02-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0022-02",
@@ -810,24 +594,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0022-04-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0022-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0022-04-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0022-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-01-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0024-01",
@@ -840,78 +606,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-01-2.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0024-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-04-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-04-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-05-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-05-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-05",
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
@@ -1026,60 +720,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-12-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-12",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-12-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-12",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-13-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-13",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-13-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-13",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-14-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-14",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-14-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-14",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-15-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0024-15",
@@ -1098,24 +738,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-16-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-16",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-16-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-16",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-17-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0024-17",
@@ -1128,24 +750,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-17-2.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0024-17",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-18-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-18",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0024-18-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0024-18",
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
@@ -1224,24 +828,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-03-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0025-03",
@@ -1254,60 +840,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-03-2.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0025-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-04-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-04-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-05-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-05-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-06-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0025-06-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0025-06",
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
@@ -1350,24 +882,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0026-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0026-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0026-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0026-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0026-04-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "ZOE-0026-04",
@@ -1384,114 +898,6 @@
         "sex": "Female",
         "life_stage": "Adult",
         "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0026-05-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0026-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0026-05-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0026-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0027-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0027-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0028-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0028-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0028-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0028-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0028-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0028-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0028-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0028-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0045-01-01.jpg",
@@ -1548,150 +954,6 @@
         "attached": "Yes"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0070-02-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0070-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0070-02-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0070-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0070-03-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0070-03",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0070-03-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0070-03",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-02-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-02-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-03-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-03-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-04-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-04-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-05-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-05-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-06-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0076-06-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0076-06",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-01-01.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "ZOE-0077-01",
@@ -1728,96 +990,6 @@
         "attached": "Yes"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-03-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-03-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-04-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-04-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-05-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-05-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-06-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0077-06-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0077-06",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0078-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0078-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0078-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0078-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0078-02-01.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "ZOE-0078-02",
@@ -1850,24 +1022,6 @@
         "sample_id": "ZOE-0078-03",
         "view": "ventral",
         "sex": "Male",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0078-04-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0078-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0078-04-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0078-04",
-        "view": "ventral",
-        "sex": "Female",
         "life_stage": "Adult",
         "attached": "Yes"
     },
@@ -2142,24 +1296,6 @@
         "attached": "Yes"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0082-06-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0082-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0082-06-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0082-06",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0082-07-01.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "ZOE-0082-07",
@@ -2244,24 +1380,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0084-02-02.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "ZOE-0084-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0084-03-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0084-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0084-03-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0084-03",
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
@@ -3258,24 +2376,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/67-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "67-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/67-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "67-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/68-01-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "68-01",
@@ -3687,24 +2787,6 @@
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/133-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "133-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/133-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "133-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
         "attached": ""
     },
     {
@@ -4734,24 +3816,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/203-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "203-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/203-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "203-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/204-01-01.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "204-01",
@@ -4896,24 +3960,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/213-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "213-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/213-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "213-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/214-01-01.jpg",
         "true_label": "Dermacentor variablis",
         "sample_id": "214-01",
@@ -5019,24 +4065,6 @@
         "view": "ventral",
         "sex": "Female",
         "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/223-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "223-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/223-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "223-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
         "attached": ""
     },
     {
@@ -5292,24 +4320,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/249-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "249-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/249-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "249-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/250-01-01.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "250-01",
@@ -5508,24 +4518,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/263-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "263-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/263-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "263-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/264-01-01.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "264-01",
@@ -5558,24 +4550,6 @@
         "sample_id": "265-01",
         "view": "ventral",
         "sex": "Male",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/267-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "267-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/267-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "267-01",
-        "view": "ventral",
-        "sex": "",
         "life_stage": "Adult",
         "attached": ""
     },
@@ -6210,24 +5184,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/326-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "326-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/326-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "326-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/328-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "328-01",
@@ -6314,24 +5270,6 @@
         "sample_id": "332-01",
         "view": "ventral",
         "sex": "Male",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/333-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "333-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/333-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "333-01",
-        "view": "ventral",
-        "sex": "Female",
         "life_stage": "Adult",
         "attached": ""
     },
@@ -6423,42 +5361,6 @@
         "view": "ventral",
         "sex": "Male",
         "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/344-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "344-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/344-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "344-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/345-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "345-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/345-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "345-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
         "attached": ""
     },
     {
@@ -7164,42 +6066,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/38-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "38-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/38-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "38-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/38-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "38-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/38-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "38-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/34-01-1.jpg",
         "true_label": "Amblyomma americanum",
         "sample_id": "34-01",
@@ -7232,24 +6098,6 @@
         "sample_id": "34-02",
         "view": "ventral",
         "sex": "Male",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/34-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "34-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/34-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "34-03",
-        "view": "ventral",
-        "sex": "Female",
         "life_stage": "Adult",
         "attached": ""
     },
@@ -8586,96 +7434,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-04-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-04",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-04-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-04",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-05-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-05",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-05-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-05",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-06-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-06",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-06-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-06",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-07-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-07",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-07-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-07",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-08-1.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "55-08",
@@ -8688,24 +7446,6 @@
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-08-2.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "55-08",
-        "view": "ventral",
-        "sex": "Male",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-09-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-09",
-        "view": "dorsal",
-        "sex": "Male",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/55-09-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "55-09",
         "view": "ventral",
         "sex": "Male",
         "life_stage": "Adult",
@@ -9360,24 +8100,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/366-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "366-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/366-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "366-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/370-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "370-01",
@@ -9432,60 +8154,6 @@
         "attached": ""
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-01-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-01-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-02-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-02",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-02-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-02",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-03-1.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-03",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/ZOE-0023-03-2.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "ZOE-0023-03",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": ""
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/400-01-01.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "400-01",
@@ -9520,24 +8188,6 @@
         "sex": "Female",
         "life_stage": "Adult",
         "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/403-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "403-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes, unknown length of time"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/403-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "403-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "Yes, unknown length of time"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/405-01-01.jpg",
@@ -9628,24 +8278,6 @@
         "sex": "",
         "life_stage": "Nymph",
         "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/412-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "412-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/412-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "412-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/413-01-01.jpg",
@@ -9954,24 +8586,6 @@
         "attached": "Yes, unknown length of time"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/436-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "436-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/436-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "436-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/438-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "438-01",
@@ -10170,24 +8784,6 @@
         "attached": "Yes, unknown length of time"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/454-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "454-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/454-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "454-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/456-01-01.jpg",
         "true_label": "Ixodes scapularis",
         "sample_id": "456-01",
@@ -10368,24 +8964,6 @@
         "attached": "Yes, unknown length of time"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/471-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "471-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Larva",
-        "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/471-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "471-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Larva",
-        "attached": "Yes, less than 24 hours"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/473-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "473-01",
@@ -10456,24 +9034,6 @@
         "sex": "Female",
         "life_stage": "Adult",
         "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/477-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "477-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/477-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "477-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, unknown length of time"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/478-01-01.jpg",
@@ -10620,24 +9180,6 @@
         "attached": "Yes, less than 24 hours"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/493-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "493-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/493-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "493-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, less than 24 hours"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/494-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "494-01",
@@ -10708,24 +9250,6 @@
         "sex": "Male",
         "life_stage": "Adult",
         "attached": "Yes, less than 24 hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/500-01-01.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "500-01",
-        "view": "dorsal",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, 24+ hours"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/500-01-02.jpg",
-        "true_label": "Ixodes",
-        "sample_id": "500-01",
-        "view": "ventral",
-        "sex": "",
-        "life_stage": "Nymph",
-        "attached": "Yes, 24+ hours"
     },
     {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy copy/501-01-01.jpg",
