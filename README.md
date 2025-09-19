@@ -1,35 +1,22 @@
 # tick_classification_project
 
-results:
+This project implements a full workflow for tick image classification using BioCLIP embeddings and SVM few-shot classification.
 
-Dorsal accuracy:                0.360
-Ventral accuracy:               0.439
-Highest confidence accuracy:    0.393
-Total evaluated samples:      369
+## Data Exploration (01)
 
-Per-class dorsal accuracy:
-Amblyomma maculatum         | 1.000
-Amblyomma americanum        | 0.205
-Dermacentor variabilis      | 0.846
-Dermacentor variablis       | 0.056
-Haemaphysalis longicornis   | 0.857
-Ixodes                      | 0.115
-Ixodes scapularis           | 0.864
+The initial step involves exploring the tick image dataset to understand its structure and characteristics. This includes visualizing sample images, analyzing class distributions, and preparing the data for downstream tasks.
 
-Per-class ventral accuracy:
-Amblyomma maculatum         | 0.667
-Amblyomma americanum        | 0.051
-Dermacentor variabilis      | 0.423
-Dermacentor variablis       | 0.430
-Haemaphysalis longicornis   | 0.857
-Ixodes                      | 0.082
-Ixodes scapularis           | 0.830
+## BioCLIP Inference (02)
 
-Per-class highest confidence accuracy:
-Amblyomma maculatum         | 1.000
-Amblyomma americanum        | 0.205
-Dermacentor variabilis      | 0.846
-Dermacentor variablis       | 0.113
-Haemaphysalis longicornis   | 1.000
-Ixodes                      | 0.098
-Ixodes scapularis           | 0.909
+In this stage, we use the BioCLIP model to extract embeddings from the tick images. The embeddings capture meaningful biological features that are useful for classification. Cached embeddings are stored to speed up subsequent processing and avoid redundant computation.
+
+## SVM Few-Shot Classification (Blocks 0–6)
+
+Using the cached BioCLIP embeddings, we perform few-shot classification with Support Vector Machines (SVM). This approach allows effective classification with limited labeled examples. Results and evaluation metrics from the SVM classification are saved for analysis.
+
+## Cached Embeddings and Results
+
+- Cached embeddings generated during the BioCLIP inference step are stored in the `cached_embeddings/` directory.
+- Classification results and evaluation outputs from the SVM few-shot workflow are saved in the `results/` directory.
+
+This structured workflow enables efficient and reproducible tick species classification leveraging state-of-the-art biological image embeddings combined with classical machine learning methods.

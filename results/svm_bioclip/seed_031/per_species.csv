@@ -1,0 +1,6 @@
+species,n_test,n_correct,accuracy_species
+Amblyomma americanum,85,77,0.9058823529411765
+Amblyomma maculatum,1,1,1.0
+Dermacentor variabilis,303,260,0.858085808580858
+Haemaphysalis longicornis,30,19,0.6333333333333333
+Ixodes scapularis,134,132,0.9850746268656716

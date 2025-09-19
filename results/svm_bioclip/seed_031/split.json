@@ -1,0 +1,2318 @@
+{
+  "train_pairs": [
+    [
+      "Amblyomma americanum",
+      "362-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "337-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "43-12"
+    ],
+    [
+      "Amblyomma americanum",
+      "56-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "288-01"
+    ],
+    [
+      "Amblyomma maculatum",
+      "GLN-0087-09"
+    ],
+    [
+      "Amblyomma maculatum",
+      "GLN-0087-08"
+    ],
+    [
+      "Amblyomma maculatum",
+      "ZOE-0045-01"
+    ],
+    [
+      "Amblyomma maculatum",
+      "GLN-0087-06"
+    ],
+    [
+      "Amblyomma maculatum",
+      "GLN-0087-10"
+    ],
+    [
+      "Dermacentor variabilis",
+      "359-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0084-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "498-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "346-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "295-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "GLN-0087-11"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "53-04"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "47-03"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "62-03"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "51-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "514-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "25-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0014-06"
+    ],
+    [
+      "Ixodes scapularis",
+      "561-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "49-04"
+    ]
+  ],
+  "test_pairs": [
+    [
+      "Amblyomma americanum",
+      "37-03"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0013-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "69-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "56-04"
+    ],
+    [
+      "Amblyomma americanum",
+      "69-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "363-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-08"
+    ],
+    [
+      "Amblyomma americanum",
+      "241-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-05"
+    ],
+    [
+      "Amblyomma americanum",
+      "43-16"
+    ],
+    [
+      "Amblyomma americanum",
+      "31-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "42-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "34-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-09"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0096-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "252-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-09"
+    ],
+    [
+      "Amblyomma americanum",
+      "234-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "19-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "376-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "501-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "56-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-14"
+    ],
+    [
+      "Amblyomma americanum",
+      "37-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "31-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "61-03"
+    ],
+    [
+      "Amblyomma americanum",
+      "427-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "50-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-17"
+    ],
+    [
+      "Amblyomma americanum",
+      "48-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "191-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "61-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "35-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "195-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "276-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "465-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "569-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "139-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-13"
+    ],
+    [
+      "Amblyomma americanum",
+      "43-11"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-12"
+    ],
+    [
+      "Amblyomma americanum",
+      "19-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "67-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "39-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-03"
+    ],
+    [
+      "Amblyomma americanum",
+      "311-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "31-03"
+    ],
+    [
+      "Amblyomma americanum",
+      "342-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "57-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "43-14"
+    ],
+    [
+      "Amblyomma americanum",
+      "37-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "50-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "61-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "342-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "110-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "50-03"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0082-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-18"
+    ],
+    [
+      "Amblyomma americanum",
+      "143-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "35-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "40-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-04"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-15"
+    ],
+    [
+      "Amblyomma americanum",
+      "150-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "42-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "56-05"
+    ],
+    [
+      "Amblyomma americanum",
+      "43-15"
+    ],
+    [
+      "Amblyomma americanum",
+      "419-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "414-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "405-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-11"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-05"
+    ],
+    [
+      "Amblyomma americanum",
+      "491-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "428-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "201-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "56-06"
+    ],
+    [
+      "Amblyomma americanum",
+      "528-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-06"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-08"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0079-07"
+    ],
+    [
+      "Amblyomma americanum",
+      "40-01"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-20"
+    ],
+    [
+      "Amblyomma americanum",
+      "48-02"
+    ],
+    [
+      "Amblyomma americanum",
+      "ZOE-0014-01"
+    ],
+    [
+      "Amblyomma maculatum",
+      "GLN-0087-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "513-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "479-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "210-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "179-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "515-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "190-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "132-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "321-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "208-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "310-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "172-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0079-10"
+    ],
+    [
+      "Dermacentor variabilis",
+      "442-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0088-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "364-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "215-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "235-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "522-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0089-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "218-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "196-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "408-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "206-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0095-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0083-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-08"
+    ],
+    [
+      "Dermacentor variabilis",
+      "532-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "439-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-09"
+    ],
+    [
+      "Dermacentor variabilis",
+      "483-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "176-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "248-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "133-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0090-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "147-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0089-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "20-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0084-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "37-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "37-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0079-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "303-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "438-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "158-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "119-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "536-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "166-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "550-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0089-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-10"
+    ],
+    [
+      "Dermacentor variabilis",
+      "37-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0016-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0095-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "204-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "317-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "GLN-0087-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "46-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "496-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "287-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "36-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "494-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "145-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "409-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0020-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "549-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "517-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "200-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-11"
+    ],
+    [
+      "Dermacentor variabilis",
+      "509-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "452-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "286-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "446-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "351-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0091-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "325-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0077-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-08"
+    ],
+    [
+      "Dermacentor variabilis",
+      "435-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0090-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "534-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "167-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "46-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "169-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "166-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "184-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "256-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "473-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "254-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0101-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-08"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0016-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "70-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "63-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "262-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "365-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "434-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "413-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "306-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "462-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0090-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "556-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0021-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0095-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "265-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "353-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "292-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "56-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "466-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0090-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0021-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "356-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "560-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0078-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "238-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "352-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "522-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "261-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "467-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "324-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "332-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "537-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "508-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "116-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "192-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "486-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "154-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "258-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "329-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "239-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "546-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "524-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "22-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "304-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "566-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "159-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "402-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "557-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "322-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "123-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "555-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "407-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "444-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "370-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "361-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "144-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "140-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "418-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0014-16"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0016-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "526-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0095-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0089-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "226-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "365-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "199-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0091-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "360-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "142-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "357-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "211-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "240-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "225-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "331-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "512-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "115-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "GLN-0087-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "499-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "531-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "148-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "462-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "162-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "107-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0100-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0100-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "508-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "209-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "347-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0097-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "519-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "179-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "207-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "100-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0100-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "135-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "545-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "328-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "224-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0021-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0045-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-08"
+    ],
+    [
+      "Dermacentor variabilis",
+      "46-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "138-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-09"
+    ],
+    [
+      "Dermacentor variabilis",
+      "424-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "312-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "279-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "415-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "430-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "106-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "538-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "445-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "129-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0089-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "107-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "202-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "46-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "GLN-0087-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "372-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0077-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0090-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "308-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "185-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "34-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "146-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "450-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "523-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "566-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "171-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-10"
+    ],
+    [
+      "Dermacentor variabilis",
+      "260-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "GLN-0087-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "180-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0088-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "220-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-06"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-07"
+    ],
+    [
+      "Dermacentor variabilis",
+      "152-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "443-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0100-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "214-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "487-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "438-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "180-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "320-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "188-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "197-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0084-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "131-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "137-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0084-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "174-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "429-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "299-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "54-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "24-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0020-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "225-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "43-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "448-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "473-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "255-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0078-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "485-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "141-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "470-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "117-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0082-05"
+    ],
+    [
+      "Dermacentor variabilis",
+      "475-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "46-04"
+    ],
+    [
+      "Dermacentor variabilis",
+      "293-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "506-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "485-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "GLN-0087-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "461-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "149-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "164-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "30-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "193-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "189-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "128-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "97-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "277-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "126-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0096-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "ZOE-0084-02"
+    ],
+    [
+      "Dermacentor variabilis",
+      "66-03"
+    ],
+    [
+      "Dermacentor variabilis",
+      "425-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "30-01"
+    ],
+    [
+      "Dermacentor variabilis",
+      "194-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "GLN-0087-14"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "GLN-0087-12"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "53-03"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "53-05"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "26-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "52-03"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "62-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0102-03"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "563-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0102-05"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "52-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0102-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "21-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "GLN-0087-13"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0102-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "58-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "37-04"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0098-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "OPL-0102-04"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "53-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "47-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "62-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "33-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "52-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "GLN-0087-15"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "29-02"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "47-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "51-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "29-01"
+    ],
+    [
+      "Haemaphysalis longicornis",
+      "53-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "503-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "219-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0026-04"
+    ],
+    [
+      "Ixodes scapularis",
+      "259-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0022-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "330-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-20"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-07"
+    ],
+    [
+      "Ixodes scapularis",
+      "157-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "358-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "45-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0079-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "268-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0079-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-15"
+    ],
+    [
+      "Ixodes scapularis",
+      "529-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "417-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "334-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0013-04"
+    ],
+    [
+      "Ixodes scapularis",
+      "2315-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "251-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "469-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "221-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "243-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "182-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "104-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0026-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "339-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-04"
+    ],
+    [
+      "Ixodes scapularis",
+      "178-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-08"
+    ],
+    [
+      "Ixodes scapularis",
+      "474-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "478-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "55-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "297-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-06"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0089-05"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0025-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-10"
+    ],
+    [
+      "Ixodes scapularis",
+      "270-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "284-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "49-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "55-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "32-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-07"
+    ],
+    [
+      "Ixodes scapularis",
+      "274-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "28-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "310-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "68-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "307-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "59-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "59-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-09"
+    ],
+    [
+      "Ixodes scapularis",
+      "400-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-11"
+    ],
+    [
+      "Ixodes scapularis",
+      "60-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-05"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0013-09"
+    ],
+    [
+      "Ixodes scapularis",
+      "60-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "45-05"
+    ],
+    [
+      "Ixodes scapularis",
+      "156-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "49-05"
+    ],
+    [
+      "Ixodes scapularis",
+      "35-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-10"
+    ],
+    [
+      "Ixodes scapularis",
+      "205-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-06"
+    ],
+    [
+      "Ixodes scapularis",
+      "23-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-06"
+    ],
+    [
+      "Ixodes scapularis",
+      "358-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "120-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-19"
+    ],
+    [
+      "Ixodes scapularis",
+      "264-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "43-13"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0014-04"
+    ],
+    [
+      "Ixodes scapularis",
+      "349-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "49-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "244-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "426-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "561-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "27-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "45-04"
+    ],
+    [
+      "Ixodes scapularis",
+      "45-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0101-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "411-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "55-08"
+    ],
+    [
+      "Ixodes scapularis",
+      "250-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "155-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "125-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "68-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "54-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "18-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0026-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "273-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "55-10"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0014-07"
+    ],
+    [
+      "Ixodes scapularis",
+      "44-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0013-10"
+    ],
+    [
+      "Ixodes scapularis",
+      "464-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0022-03"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0025-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "45-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "296-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "323-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-05"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-17"
+    ],
+    [
+      "Ixodes scapularis",
+      "49-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "65-09"
+    ],
+    [
+      "Ixodes scapularis",
+      "229-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "290-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "187-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "36-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-08"
+    ],
+    [
+      "Ixodes scapularis",
+      "27-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0070-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0024-21"
+    ],
+    [
+      "Ixodes scapularis",
+      "298-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "553-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "60-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "102-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "38-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "456-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "ZOE-0013-11"
+    ],
+    [
+      "Ixodes scapularis",
+      "355-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "416-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "124-01"
+    ],
+    [
+      "Ixodes scapularis",
+      "416-02"
+    ],
+    [
+      "Ixodes scapularis",
+      "41-04"
+    ]
+  ]
+}

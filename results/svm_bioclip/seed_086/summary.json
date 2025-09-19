@@ -1,0 +1,11 @@
+{
+  "overall_accuracy": 0.8535262206148282,
+  "macro_accuracy": 0.8271549648380114,
+  "n_test": 553,
+  "K": 5,
+  "MIN_TOTAL": 6,
+  "seed": 86,
+  "device": "mps",
+  "bioclip_version": "unknown",
+  "timestamp": 1758322033
+}
