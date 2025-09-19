@@ -1,1 +1,2 @@
-data/raw
+data/raw/
+data/processed/emb_cache/
