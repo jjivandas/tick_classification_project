@@ -1,0 +1,17 @@
+species_true,species_pred,count,true_total,rate_within_true
+Amblyomma americanum,Amblyomma americanum,27294,40600,0.6722660098522167
+Amblyomma americanum,Dermacentor variabilis,1984,40600,0.048866995073891625
+Amblyomma americanum,Haemaphysalis longicornis,10003,40600,0.24637931034482757
+Amblyomma americanum,Ixodes scapularis,1319,40600,0.03248768472906404
+Dermacentor variabilis,Amblyomma americanum,5012,149600,0.03350267379679144
+Dermacentor variabilis,Dermacentor variabilis,132199,149600,0.8836831550802139
+Dermacentor variabilis,Haemaphysalis longicornis,10313,149600,0.06893716577540107
+Dermacentor variabilis,Ixodes scapularis,2076,149600,0.013877005347593584
+Haemaphysalis longicornis,Amblyomma americanum,3363,13100,0.2567175572519084
+Haemaphysalis longicornis,Dermacentor variabilis,783,13100,0.059770992366412215
+Haemaphysalis longicornis,Haemaphysalis longicornis,8397,13100,0.6409923664122137
+Haemaphysalis longicornis,Ixodes scapularis,557,13100,0.042519083969465646
+Ixodes scapularis,Amblyomma americanum,3958,65100,0.06079877112135176
+Ixodes scapularis,Dermacentor variabilis,1487,65100,0.02284178187403994
+Ixodes scapularis,Haemaphysalis longicornis,4444,65100,0.0682642089093702
+Ixodes scapularis,Ixodes scapularis,55211,65100,0.8480952380952381

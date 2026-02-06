@@ -1,0 +1,10 @@
+species_true,species_pred,count,true_total,rate_within_true
+Amblyomma americanum,Amblyomma americanum,34052,39100,0.8708951406649617
+Amblyomma americanum,Dermacentor variabilis,2500,39100,0.0639386189258312
+Amblyomma americanum,Ixodes scapularis,2548,39100,0.06516624040920715
+Dermacentor variabilis,Amblyomma americanum,11478,147600,0.07776422764227642
+Dermacentor variabilis,Dermacentor variabilis,132264,147600,0.8960975609756098
+Dermacentor variabilis,Ixodes scapularis,3858,147600,0.02613821138211382
+Ixodes scapularis,Amblyomma americanum,6223,63600,0.09784591194968553
+Ixodes scapularis,Dermacentor variabilis,2307,63600,0.03627358490566038
+Ixodes scapularis,Ixodes scapularis,55070,63600,0.865880503144654
