@@ -10080,24 +10080,6 @@
         "attached": "Yes, unknown length of time"
     },
     {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/560-01-01.jpg",
-        "true_label": "Dermacentor variabilis",
-        "sample_id": "560-01",
-        "view": "dorsal",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
-        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/560-01-02.jpg",
-        "true_label": "Dermacentor variabilis",
-        "sample_id": "560-01",
-        "view": "ventral",
-        "sex": "Female",
-        "life_stage": "Adult",
-        "attached": "No"
-    },
-    {
         "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/557-01-01.jpg",
         "true_label": "Dermacentor variabilis",
         "sample_id": "557-01",

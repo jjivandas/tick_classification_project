@@ -1,0 +1,26 @@
+species_true,species_pred,count,true_total,rate_within_true
+Amblyomma americanum,Amblyomma americanum,26563,39600,0.6707828282828283
+Amblyomma americanum,Dermacentor variabilis,1421,39600,0.035883838383838386
+Amblyomma americanum,Haemaphysalis longicornis,8581,39600,0.21669191919191919
+Amblyomma americanum,Ixodes cookei,2251,39600,0.05684343434343434
+Amblyomma americanum,Ixodes scapularis,784,39600,0.019797979797979797
+Dermacentor variabilis,Amblyomma americanum,5286,147600,0.0358130081300813
+Dermacentor variabilis,Dermacentor variabilis,131436,147600,0.8904878048780488
+Dermacentor variabilis,Haemaphysalis longicornis,8442,147600,0.057195121951219514
+Dermacentor variabilis,Ixodes cookei,1018,147600,0.0068970189701897016
+Dermacentor variabilis,Ixodes scapularis,1418,147600,0.009607046070460704
+Haemaphysalis longicornis,Amblyomma americanum,2235,10600,0.2108490566037736
+Haemaphysalis longicornis,Dermacentor variabilis,423,10600,0.03990566037735849
+Haemaphysalis longicornis,Haemaphysalis longicornis,6899,10600,0.6508490566037736
+Haemaphysalis longicornis,Ixodes cookei,920,10600,0.08679245283018867
+Haemaphysalis longicornis,Ixodes scapularis,123,10600,0.01160377358490566
+Ixodes cookei,Amblyomma americanum,672,10100,0.06653465346534654
+Ixodes cookei,Dermacentor variabilis,61,10100,0.00603960396039604
+Ixodes cookei,Haemaphysalis longicornis,1120,10100,0.11089108910891089
+Ixodes cookei,Ixodes cookei,7918,10100,0.783960396039604
+Ixodes cookei,Ixodes scapularis,329,10100,0.032574257425742575
+Ixodes scapularis,Amblyomma americanum,3356,64100,0.05235569422776911
+Ixodes scapularis,Dermacentor variabilis,1138,64100,0.017753510140405618
+Ixodes scapularis,Haemaphysalis longicornis,3204,64100,0.04998439937597504
+Ixodes scapularis,Ixodes cookei,3380,64100,0.05273010920436817
+Ixodes scapularis,Ixodes scapularis,53022,64100,0.827176287051482

@@ -1,0 +1,6 @@
+species_true,n_total_rows,n_total_incorrect,n_total_correct,error_rate,most_confused_with,misclass_count,misclass_rate_within_true
+Amblyomma americanum,39600,13049,26551,0.32952020202020205,Haemaphysalis longicornis,8569,0.21638888888888888
+Dermacentor variabilis,148100,17299,130801,0.11680621201890615,Haemaphysalis longicornis,9482,0.06402430790006752
+Haemaphysalis longicornis,10600,3614,6986,0.3409433962264151,Amblyomma americanum,2179,0.20556603773584906
+Ixodes cookei,10100,2117,7983,0.2096039603960396,Haemaphysalis longicornis,1050,0.10396039603960396
+Ixodes scapularis,64100,11177,52923,0.17436817472698907,Haemaphysalis longicornis,3294,0.05138845553822153
