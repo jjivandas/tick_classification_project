@@ -1,0 +1,6 @@
+Transfer starting: 1829 files
+created directory /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/data/idi
+./
+.DS_Store
+          88068 100%   19.14MB/s   00:00:00 (xfer#1, to-check=1/1829)
+100-01-01.jpg
