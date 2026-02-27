@@ -1,5 +1,5 @@
 {
-  "metadata_csv": "data/raw/AI Image Data Oct 31 2025.csv",
+  "metadata_csv": "data/raw/CSVs/AI Image Data_feb_6.csv",
   "image_dir": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy",
   "processed_dir": "data/processed",
   "emb_cache_dir": "data/processed/emb_cache",

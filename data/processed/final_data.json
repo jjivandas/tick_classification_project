@@ -12562,5 +12562,3785 @@
         "sex": NaN,
         "life_stage": "Larva",
         "attached": NaN
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/570-01-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "570-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/570-01-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "570-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/575-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "575-01",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/575-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "575-01",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/579-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "579-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/579-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "579-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/582-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "582-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/582-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "582-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/584-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "584-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/584-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "584-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/585-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "585-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/585-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "585-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/586-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "586-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/586-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "586-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/587-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "587-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/587-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "587-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/588-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "588-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/588-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "588-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/589-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "589-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/589-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "589-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/590-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "590-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/590-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "590-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/591-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "591-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/591-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "591-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/593-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "593-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/593-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "593-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/594-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "594-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/594-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "594-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/596-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "596-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/596-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "596-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/597-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "597-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/597-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "597-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/598-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "598-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/598-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "598-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/598-02-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "598-02",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/598-02-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "598-02",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/600-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "600-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/600-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "600-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/601-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "601-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/601-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "601-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/602-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "602-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/602-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "602-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/603-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "603-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/603-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "603-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/604-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "604-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/604-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "604-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/608-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "608-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/608-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "608-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/609-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "609-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/609-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "609-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/610-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "610-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/610-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "610-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/612-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "612-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/612-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "612-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/612-02-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "612-02",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/612-02-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "612-02",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/613-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "613-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/613-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "613-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/614-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "614-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/614-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "614-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/615-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "615-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/615-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "615-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/616-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "616-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": NaN
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/616-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "616-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": NaN
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/617-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "617-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/617-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "617-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/618-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "618-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/618-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "618-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/619-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "619-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/619-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "619-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/620-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "620-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/620-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "620-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/622-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "622-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/622-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "622-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/623-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "623-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/623-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "623-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/624-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "624-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/624-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "624-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/625-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "625-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/625-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "625-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/625-02-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "625-02",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/625-02-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "625-02",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/626-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "626-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/626-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "626-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/627-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "627-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/627-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "627-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/628-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "628-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/628-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "628-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/629-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "629-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/629-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "629-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/630-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "630-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/630-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "630-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/631-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "631-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/631-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "631-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/632-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "632-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/632-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "632-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/633-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "633-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/633-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "633-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/634-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "634-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/634-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "634-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/635-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "635-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/635-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "635-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/636-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "636-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/636-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "636-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/637-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "637-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/637-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "637-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/638-01-01.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "638-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/638-01-02.jpg",
+        "true_label": "Ixodes",
+        "sample_id": "638-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/639-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "639-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/639-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "639-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/640-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "640-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/640-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "640-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, less than 24 hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/641-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "641-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/641-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "641-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/643-01-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "643-01",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/643-01-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "643-01",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/643-02-01.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "643-02",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/643-02-02.jpg",
+        "true_label": "Ixodes scapularis",
+        "sample_id": "643-02",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, 24+ hours"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19157-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19157",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19157-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19157",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19469-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19469",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19469-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19469",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19561-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19561",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19561-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19561",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19591-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19591",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19591-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19591",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19598-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19598",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19598-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19598",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19715-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19715",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19715-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19715",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19794-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19794",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19794-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T19794",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20127-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20127",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20127-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20127",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20472-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20472",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20472-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20472",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20473-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20473",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20473-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20473",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20737-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20737",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20737-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T20737",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21073-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21073",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21073-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21073",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21340-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21340",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21340-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21340",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21611-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21611",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21611-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21611",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21612-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21612",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21612-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21612",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21613-01.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21613",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21613-02.jpg",
+        "true_label": "Ixodes dentatus",
+        "sample_id": "T21613",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6725-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6725",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6725-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6725",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6726-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6726",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6726-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6726",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6727-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6727",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6727-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6727",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6728-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6728",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6728-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6728",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6729-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6729",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6729-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6729",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6730-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6730",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6730-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6730",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6731-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6731",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6731-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6731",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6732-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6732",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6732-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6732",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6733-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6733",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6733-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6733",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6734-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6734",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T6734-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T6734",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9841-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9841",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9841-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9841",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9842-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9842",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9842-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9842",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9843-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9843",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9843-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9843",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17492-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17492",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17492-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17492",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17493-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17493",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17493-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17493",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17499-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17499",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17499-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17499",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17507-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17507",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17507-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17507",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17514-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17514",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17514-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17514",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17515-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17515",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17515-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17515",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17565-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17565",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17565-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17565",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17516-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17516",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T17516-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T17516",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18714-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T18714",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18714-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T18714",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18716-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T18716",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18716-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T18716",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19572-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19572",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19572-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19572",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20209-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20209",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20209-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20209",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20210-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20210",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20210-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20210",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20221-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20221",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20221-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20221",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20222-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20222",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20222-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20222",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20446-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20446",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20446-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T20446",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21824-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T21824",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21824-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T21824",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19565-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19565",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19565-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19565",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19566-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19566",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19566-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19566",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19567-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19567",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19567-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19567",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19576-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19576",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19576-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19576",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19577-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19577",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19577-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19577",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19578-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19578",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19578-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19578",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19579-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19579",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19579-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19579",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19580-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19580",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19580-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19580",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19581-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19581",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19581-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19581",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19582-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19582",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19582-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19582",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10136-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10136",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10136-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10136",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19428-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19428",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19428-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T19428",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9969-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9969",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9969-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9969",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9970-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9970",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9970-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9970",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9971-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9971",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9971-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9971",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9974-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9974",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9974-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9974",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9975-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9975",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9975-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9975",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9976-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9976",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9976-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9976",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9977-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9977",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9977-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9977",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9979-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9979",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9979-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9979",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9980-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9980",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9980-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T9980",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10154-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10154",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10154-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10154",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10129-01.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10129",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T10129-02.jpg",
+        "true_label": "Haemaphysalis leporispalustris",
+        "sample_id": "T10129",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14496-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14496",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14496-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14496",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14497-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14497",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14497-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14497",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14511-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14511",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14511-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14511",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14512-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14512",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14512-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14512",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14517-01-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14517-01",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14517-01-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14517-01",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14517-02-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14517-02",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14517-02-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14517-02",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14534-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14534",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14534-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14534",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14540-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14540",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14540-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14540",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14551-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14551",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14551-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14551",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14578-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14578",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14578-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T14578",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7843-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7843",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7843-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7843",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7844-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7844",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7844-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7844",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7845-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7845",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T7845-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T7845",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19730-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T19730",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19730-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T19730",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19731-01.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T19731",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19731-02.jpg",
+        "true_label": "Dermacentor variabilis",
+        "sample_id": "T19731",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14498-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14498",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14498-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14498",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14499-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14499",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14499-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14499",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14518-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14518",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14518-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14518",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14552-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14552",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14552-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14552",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14584-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14584",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14584-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14584",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14596-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14596",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14596-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14596",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14660-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14660",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14660-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14660",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14661-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14661",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14661-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14661",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14666-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14666",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14666-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14666",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14740-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14740",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14740-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14740",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4777-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4777",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4777-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4777",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4779-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4779",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4779-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4779",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4780-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4780",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4780-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4780",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4782-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4782",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4782-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4782",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4783-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4783",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4783-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4783",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4784-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4784",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4784-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4784",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4785-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4785",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4785-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4785",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4786-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4786",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4786-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4786",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4789-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4789",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4789-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4789",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4793-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4793",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T4793-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T4793",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14619-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14619",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14619-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14619",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14620-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14620",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14620-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14620",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14621-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14621",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14621-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14621",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14622-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14622",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14622-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14622",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14623-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14623",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14623-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T14623",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15305-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15305",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15305-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15305",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15306-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15306",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15306-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15306",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15307-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15307",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15307-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15307",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15308-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15308",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15308-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15308",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15309-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15309",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15309-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T15309",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19738-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19738",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19738-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19738",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19739-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19739",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19739-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19739",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19740-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19740",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19740-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19740",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19741-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19741",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19741-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19741",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19743-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19743",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19743-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T19743",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20310-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T20310",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20310-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T20310",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20344-01.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T20344",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T20344-02.jpg",
+        "true_label": "Amblyomma americanum",
+        "sample_id": "T20344",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18994-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18994",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18994-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18994",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18996-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18996",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18996-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18996",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18997-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18997",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18997-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18997",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18998-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18998",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18998-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T18998",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19001-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19001",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19001-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19001",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19002-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19002",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19002-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19002",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19003-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19003",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19003-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19003",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19004-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19004",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19004-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19004",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19005-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19005",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19005-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19005",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19006-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19006",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19006-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19006",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19012-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19012",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19012-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19012",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19014-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19014",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19014-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19014",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19017-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19017",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19017-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19017",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19021-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19021",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19021-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19021",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19023-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19023",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19023-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19023",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19024-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19024",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19024-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19024",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19025-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19025",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19025-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19025",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19026-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19026",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19026-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19026",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19028-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19028",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19028-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19028",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19046-01.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19046",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T19046-02.jpg",
+        "true_label": "Amblyomma maculatum",
+        "sample_id": "T19046",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T5484-01.jpg",
+        "true_label": "Ixodes muris",
+        "sample_id": "T5484",
+        "view": "dorsal",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T5484-02.jpg",
+        "true_label": "Ixodes muris",
+        "sample_id": "T5484",
+        "view": "ventral",
+        "sex": "Male",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9972-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9972",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9972-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9972",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9973-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9973",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9973-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9973",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9981-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9981",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9981-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9981",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9984-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9984",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9984-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9984",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9986-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9986",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T9986-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T9986",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14337-01.jpg",
+        "true_label": "Ixodes banksi",
+        "sample_id": "T14337",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T14337-02.jpg",
+        "true_label": "Ixodes banksi",
+        "sample_id": "T14337",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15402-01.jpg",
+        "true_label": "Ixodes texanus",
+        "sample_id": "T15402",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T15402-02.jpg",
+        "true_label": "Ixodes texanus",
+        "sample_id": "T15402",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Larva",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18412-01.jpg",
+        "true_label": "Ixodes brunneus",
+        "sample_id": "T18412",
+        "view": "dorsal",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T18412-02.jpg",
+        "true_label": "Ixodes brunneus",
+        "sample_id": "T18412",
+        "view": "ventral",
+        "sex": "Female",
+        "life_stage": "Adult",
+        "attached": "Yes, unknown length of time"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21509-01.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T21509",
+        "view": "dorsal",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
+    },
+    {
+        "image_path": "/Users/jayjivandas/Library/CloudStorage/OneDrive-TheOhioStateUniversity/Research-Onedrive/Imageomics/Bryant, Cece's files - Tick Images - Copy/T21509-02.jpg",
+        "true_label": "Ixodes kingi",
+        "sample_id": "T21509",
+        "view": "ventral",
+        "sex": NaN,
+        "life_stage": "Nymph",
+        "attached": "No"
     }
 ]
