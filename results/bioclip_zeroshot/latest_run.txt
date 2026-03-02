@@ -1,0 +1,1 @@
+/Users/jayjivandas/Research_Imageomics/BioClip/tick_classification_project/results/bioclip_zeroshot/runs/260302_174711/bioclip_8species_results.npz

@@ -4,5 +4,6 @@
   "processed_dir": "data/processed",
   "emb_cache_dir": "data/processed/emb_cache",
   "results_dir": "results",
-  "svm_results_dir": "results/svm"
+  "svm_results_dir": "results/svm",
+  "bioclip_results_dir": "results/bioclip_zeroshot"
 }
