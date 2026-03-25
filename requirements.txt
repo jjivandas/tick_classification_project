@@ -1,0 +1,10 @@
+pybioclip
+scikit-learn
+pandas
+numpy
+pillow
+matplotlib
+tqdm
+jupyter
+nbconvert
+ipykernel
