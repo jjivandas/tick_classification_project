@@ -1,0 +1,722 @@
+sample_id,species,sex,life_stage,attached,pathogen,pathogen_result,tick_condition,dim1,dim2
+100-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-16.071516,-25.340147
+102-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,0.25619358,21.754862
+104-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,-2.1523461,20.494669
+106-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-20.233816,-15.467345
+107-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-20.070402,-16.653503
+107-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-20.874163,-14.874871
+115-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-18.694328,-23.36758
+116-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-26.680702,-2.2885795
+117-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-18.009926,-24.280056
+119-01,Dermacentor variabilis,Male,Unknown,Unknown,None,negative,Fed,-25.747475,-12.564608
+120-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Fed,8.104682,35.86865
+123-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-18.708271,-17.808655
+124-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,8.109367,32.83841
+125-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Unfed,10.817023,34.778545
+126-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-19.105022,-15.7337885
+128-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-18.438568,-22.017477
+129-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-16.696493,-16.828588
+131-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-13.242889,0.9432439
+132-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-13.4021435,1.198472
+133-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-5.0214925,-22.359415
+135-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-11.728701,11.033255
+137-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-9.438474,10.061023
+138-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.865199,-14.683793
+139-01,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Unfed,13.030587,-5.4255257
+140-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-16.660967,-17.675602
+141-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-28.42754,-7.1024857
+142-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.136539,2.4544733
+143-01,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Unfed,11.173841,-19.36228
+144-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-10.939256,10.309919
+145-01,Dermacentor variabilis,Unknown,Unknown,Unknown,None,negative,Unfed,-22.033705,-1.5194687
+146-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-29.70526,-7.237755
+147-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-17.920475,-23.030348
+148-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-27.246286,-0.5024587
+150-01,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,11.334862,-19.772346
+152-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-23.163729,-3.6446288
+154-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-19.841183,-6.46547
+155-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Engorged,14.415289,21.111038
+156-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Engorged,10.3209505,25.74555
+157-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Engorged,4.794613,31.089054
+158-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Engorged,-17.945171,-19.90436
+159-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-29.881914,2.788806
+162-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Engorged,-29.555708,-8.321757
+164-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-30.03361,-9.788679
+166-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-27.38948,-0.20823483
+166-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Engorged,-29.496218,-3.9689777
+167-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-6.3573456,-22.8247
+169-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-29.201208,-6.6871676
+171-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-16.684637,5.6070623
+172-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,0.37102664,11.679234
+174-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.639708,-19.630592
+176-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-7.6856947,-24.66483
+178-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,15.062135,24.892847
+179-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-27.407515,-13.627521
+179-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-17.445091,3.8239198
+18-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Fed,7.4536858,44.336548
+182-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,4.256772,18.821531
+184-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-21.428019,-2.8169265
+185-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-16.560568,-19.675644
+187-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Engorged,-0.08870667,17.895702
+188-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-6.6729054,5.215315
+189-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-12.409131,3.2123663
+190-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-17.190405,-23.857224
+19-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,9.949786,-15.804399
+19-02,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Unfed,15.350867,-14.413749
+191-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,-7.1054745,1.170746
+192-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-15.050162,-14.649282
+193-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-15.732162,-19.246479
+194-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-24.892057,3.4417958
+195-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Fed,11.982784,-5.7993526
+196-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-22.818577,-8.403277
+197-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-8.118648,8.005988
+199-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-8.26046,7.851549
+200-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-28.30298,-8.470055
+20-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-4.3362007,-21.583874
+201-01,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,12.191554,5.4604387
+202-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,0.86358565,15.807682
+204-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Engorged,-27.086775,5.2444787
+205-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,6.970206,14.942093
+206-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-22.465014,6.5092816
+207-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-31.140293,-12.016456
+208-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-14.126495,7.2886667
+209-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-15.421112,6.9957247
+210-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-24.960135,0.8618046
+21-01,Haemaphysalis longicornis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Fed,10.6230545,0.54645777
+211-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-16.310333,6.080317
+214-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-17.914284,3.2662737
+215-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-13.350307,-11.304343
+218-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-0.81456226,9.808064
+219-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,9.542295,23.228418
+220-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-25.974197,-5.511994
+22-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-10.54965,-23.071049
+221-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Engorged,6.1481028,30.013048
+225-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-5.9200435,3.600989
+225-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-17.651047,-9.35423
+226-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-23.851517,4.649822
+229-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Engorged,12.551017,24.413334
+23-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,11.368704,44.50365
+2315-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,6.1024942,33.668346
+234-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Fed,0.7111616,3.7986681
+235-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-25.606236,6.010036
+238-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-22.510172,-0.7636069
+239-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-27.922962,5.254203
+240-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-27.617641,6.4635615
+24-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-6.779146,-19.690752
+241-01,Amblyomma americanum,Unknown,Nymph,Unknown,None,negative,Undetermined,3.9553046,-3.716988
+243-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Fed,10.146762,12.32431
+244-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Fed,10.405776,23.219984
+248-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-19.673824,-8.822092
+250-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,11.025506,22.41617
+25-01,Ixodes scapularis,Unknown,Adult,Unknown,None,negative,Fed,3.6468465,41.69812
+251-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Engorged,9.246553,19.64092
+252-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Undetermined,3.8870869,-4.133233
+254-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-7.9839883,3.601521
+255-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-26.722,-4.1783094
+256-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-26.29799,7.919915
+258-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-5.78572,12.34004
+259-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,9.902093,22.066021
+260-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-27.855654,-4.7101874
+26-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,12.600809,-0.0138678085
+261-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,1.6853976,11.662529
+262-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-8.09544,4.2763696
+264-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,4.6556683,30.592464
+265-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-27.101274,-4.9521565
+268-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,9.867675,20.930632
+270-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,5.24808,30.243204
+27-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,5.975153,42.93977
+27-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Unfed,8.378439,42.77458
+273-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,7.973705,22.469206
+274-01,Ixodes scapularis,Unknown,Nymph,Unknown,Borrelia burgdorferii s.s.,Positive,Undetermined,12.537929,21.152851
+276-01,Amblyomma americanum,Male,Adult,Unknown,None,negative,Fed,4.2446113,-5.501593
+277-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-29.63728,5.834883
+279-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-25.442154,-6.8156857
+28-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,8.498901,44.194645
+284-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,13.877805,21.699348
+286-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-12.141077,-1.2605717
+287-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-10.9918375,7.9708486
+288-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Fed,5.549467,-4.080929
+29-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,12.338108,0.95128953
+29-02,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,3.7660987,-15.373305
+292-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-22.509918,-7.127621
+293-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-19.904322,-1.7044003
+295-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-23.70651,-0.056206547
+296-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,5.302448,6.9478407
+297-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,12.450075,22.772352
+298-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,10.662979,20.190548
+299-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-27.496687,-6.2708955
+30-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-10.148244,-21.875164
+30-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-10.443635,-23.23731
+303-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-25.609293,-10.256608
+304-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-21.949791,-1.1787872
+306-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-16.418047,-10.0202
+307-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,9.263331,16.93982
+308-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-14.0786495,-5.9572577
+310-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-1.9388692,8.921699
+310-02,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Unfed,4.8288608,15.260334
+31-02,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Unfed,1.8924906,-18.55015
+31-03,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Unfed,9.777932,-0.57269186
+311-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Unfed,20.84117,1.6391933
+312-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-26.410683,1.0202955
+317-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-25.686962,-0.33046347
+320-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,0.7023054,15.81439
+32-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,9.928668,42.31231
+321-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-13.608169,-4.73797
+322-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-14.888305,-6.0199876
+323-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,1.7626052,26.766361
+324-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,9.592212,6.0177393
+325-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-11.18229,-2.2828712
+328-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-22.255707,2.138303
+329-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-5.0066314,10.751972
+330-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,-0.80202734,5.1229153
+331-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-31.376621,-0.14634852
+332-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-27.751223,2.3726687
+334-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,8.8074875,24.709772
+337-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,-5.633123,-3.119218
+339-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,2.6804075,28.0197
+34-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,10.092468,0.75714993
+34-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-7.9718957,-21.144444
+342-01,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,-4.01289,-4.6909776
+342-02,Amblyomma americanum,Male,Adult,Unknown,None,negative,Fed,-4.699533,-1.286081
+346-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-22.01859,2.8214798
+347-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-8.366524,-2.4015658
+349-01,Ixodes scapularis,Unknown,Nymph,Unknown,Borrelia burgdorferii s.s.,Positive,Undetermined,8.735189,25.001848
+35-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Fed,7.356459,-15.724791
+35-02,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,10.283954,1.617492
+35-03,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,11.592776,43.212376
+351-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-15.06194,6.347569
+352-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.466427,-0.9826545
+353-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-23.037697,1.9901198
+355-01,Ixodes scapularis,Unknown,Nymph,Unknown,Borrelia burgdorferii s.s.,Positive,Fed,14.973522,22.311794
+356-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-29.13671,4.877735
+357-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-22.058928,1.9220682
+358-01,Ixodes scapularis,Unknown,Nymph,Unknown,Borrelia burgdorferii s.s.,Positive,Undetermined,9.122925,26.49151
+358-02,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,10.849793,18.889553
+359-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-24.3606,2.0619645
+360-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-8.142546,6.436839
+36-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-4.823414,-20.882431
+36-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,11.680543,42.416023
+361-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-1.4959593,11.654529
+362-01,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,9.377377,9.661499
+363-01,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,9.242134,9.339363
+364-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-8.921126,-2.8699515
+365-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-26.431057,-7.6375594
+365-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-27.242287,-10.062872
+370-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-6.5187597,7.5974717
+37-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,14.047365,1.0464667
+37-02,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,11.036256,1.704944
+37-03,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,5.6010294,-13.236282
+37-04,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Undetermined,12.918931,2.3852124
+37-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-5.355516,-16.382998
+37-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-5.6315317,-16.39524
+37-07,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-6.875267,-15.3674345
+372-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-19.93327,-4.571154
+376-01,Amblyomma americanum,Male,Adult,Unknown,None,negative,Undetermined,3.7163794,-5.2056336
+38-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia miyamotoi,Positive,Fed,10.397568,43.7734
+39-01,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Engorged,9.676529,1.4719125
+400-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,0.9460174,21.022148
+40-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,6.3903413,-15.717018
+40-02,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,6.6608872,-15.006594
+402-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-19.119972,-3.081152
+405-01,Amblyomma americanum,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,0.5614174,3.933313
+407-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-3.8308098,12.873938
+408-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-24.892654,-0.25057533
+409-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-14.360331,-10.520343
+41-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,9.034507,43.679695
+41-02,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,3.3899527,40.520325
+41-03,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,7.362458,42.369774
+41-04,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,7.6643376,42.077072
+41-05,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,3.4774451,39.796574
+41-06,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,7.247306,42.007862
+411-01,Ixodes scapularis,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,10.704276,20.738564
+413-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Fed,-5.579522,11.506962
+414-01,Amblyomma americanum,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,1.9433502,-5.6199245
+415-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-14.346417,-10.372261
+416-01,Ixodes scapularis,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,10.723312,24.782192
+416-02,Ixodes scapularis,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,9.836723,21.72807
+417-01,Ixodes scapularis,Unknown,Nymph,"Yes, 24+ hours",None,negative,Undetermined,11.562158,21.3878
+418-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-26.70638,2.2262967
+42-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,6.315118,-15.189199
+42-02,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,5.468849,-15.499484
+424-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Fed,-28.954155,-4.6522326
+425-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-27.223185,-7.7385306
+426-01,Ixodes scapularis,Unknown,Nymph,"Yes, unknown length of time",None,negative,Undetermined,11.429755,20.573301
+427-01,Amblyomma americanum,Unknown,Nymph,"Yes, 24+ hours",Rickettsia amblyommatis,Positive,Fed,-1.6281872,6.115326
+428-01,Amblyomma americanum,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,-1.4690973,5.897245
+429-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-20.396004,-9.518771
+430-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-18.645369,-0.29359865
+43-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-6.3952084,-21.088142
+43-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-7.7576065,-22.602612
+43-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-6.195221,-21.74075
+43-04,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-6.9658833,-21.527777
+43-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-7.7297606,-21.866646
+43-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-8.534478,-22.910046
+43-07,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-9.1904955,-22.952232
+43-08,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-8.729587,-23.128525
+43-09,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-9.530848,-23.942318
+43-10,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-5.7405076,-21.014828
+43-11,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,8.637091,-15.657543
+43-12,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,6.0892825,-16.143442
+43-13,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,11.059741,44.565544
+43-14,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,1.4257792,-17.484571
+43-15,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,1.6580914,-17.220228
+43-16,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,1.745157,-17.144175
+434-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Undetermined,-4.500366,10.547647
+435-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Undetermined,-20.3959,-9.519004
+438-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Undetermined,-17.36025,3.0163321
+438-02,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Undetermined,-11.09384,1.3829073
+439-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-18.072147,-4.0849915
+44-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,12.252027,45.19136
+442-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Fed,-27.42809,3.981713
+443-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-6.508584,8.154335
+444-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-19.795914,-1.2484775
+445-01,Dermacentor variabilis,Male,Adult,No,None,negative,Fed,-25.063467,-8.524195
+446-01,Dermacentor variabilis,Female,Adult,No,None,negative,Undetermined,-22.167452,-3.8067803
+448-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-24.866425,-2.643378
+450-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Undetermined,-29.10864,4.397835
+45-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,4.0373297,43.794884
+45-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Engorged,4.8867855,43.06366
+45-03,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,1.5747203,42.72114
+45-04,Ixodes scapularis,Female,Adult,Unknown,None,negative,Engorged,4.747204,41.948757
+45-05,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,5.1564465,42.443966
+452-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Fed,-31.044107,3.1990266
+456-01,Ixodes scapularis,Unknown,Nymph,"Yes, unknown length of time",None,negative,Undetermined,11.840334,21.616388
+46-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-13.856711,-21.314888
+46-02,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-14.849264,-22.259628
+46-03,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-14.529183,-21.460821
+46-04,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-15.051831,-22.615295
+46-05,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-12.901281,-22.208118
+461-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Undetermined,-15.3936615,4.436389
+462-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Undetermined,-9.078824,5.1758494
+462-02,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Undetermined,3.0153072,7.097922
+464-01,Ixodes scapularis,Unknown,Nymph,"Yes, unknown length of time",None,negative,Undetermined,8.605524,19.295824
+465-01,Amblyomma americanum,Female,Adult,"Yes, 24+ hours",None,negative,Fed,-4.3554573,8.099551
+466-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-7.514109,4.7332234
+467-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-21.253965,-3.9669664
+469-01,Ixodes scapularis,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Undetermined,14.280953,22.727592
+470-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Undetermined,-14.690497,9.436025
+47-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,13.519374,1.0007777
+47-02,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,12.200082,-0.59802604
+47-03,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,12.078509,-1.5748619
+473-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-23.441439,-10.823511
+473-02,Dermacentor variabilis,Female,Adult,No,None,negative,Undetermined,-19.412666,-2.1266127
+474-01,Ixodes scapularis,Unknown,Nymph,Unknown,None,negative,Undetermined,9.413673,23.826376
+475-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-25.45856,2.6756034
+478-01,Ixodes scapularis,Unknown,Nymph,"Yes, unknown length of time",Borrelia burgdorferii s.s.,Positive,Undetermined,11.379716,23.10886
+479-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Undetermined,-9.083576,8.266801
+48-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Fed,7.6278057,-13.988643
+48-02,Amblyomma americanum,Male,Adult,Unknown,None,negative,Fed,8.00303,-12.345506
+483-01,Dermacentor variabilis,Female,Adult,No,None,negative,Undetermined,-18.26158,-1.7578548
+485-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-20.633293,6.250366
+485-02,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-20.47374,6.0667524
+486-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-21.325193,0.45463204
+487-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-25.147717,-5.732764
+49-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,6.353929,41.429523
+49-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,5.6210914,40.282032
+49-03,Ixodes scapularis,Female,Adult,Unknown,None,negative,Engorged,7.80614,46.29157
+49-04,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,5.1348233,41.159657
+49-05,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,5.5066032,40.24307
+491-01,Amblyomma americanum,Unknown,Nymph,"Yes, less than 24 hours",None,negative,Fed,5.357942,-3.633365
+494-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Fed,-23.139168,-9.701149
+496-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-22.31599,-5.690962
+498-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-13.791366,3.7833576
+499-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-28.930645,2.9375796
+50-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Fed,12.30423,-9.948247
+50-02,Amblyomma americanum,Unknown,Nymph,Unknown,None,negative,Undetermined,11.985029,-11.349806
+50-03,Amblyomma americanum,Unknown,Nymph,Unknown,None,negative,Fed,12.208373,-10.262186
+501-01,Amblyomma americanum,Unknown,Nymph,"Yes, 24+ hours",None,negative,Undetermined,9.885995,11.589573
+506-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-23.81785,-7.1934953
+508-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-26.117306,6.521927
+508-02,Dermacentor variabilis,Male,Adult,No,None,negative,Fed,-24.277906,-6.0208454
+509-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-26.022913,-7.862892
+51-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,11.963928,-1.7668763
+51-02,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,12.810481,-0.8160245
+512-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Undetermined,-18.24012,5.4614754
+513-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Undetermined,-6.2411714,8.9892
+514-01,Ixodes scapularis,Unknown,Nymph,"Yes, unknown length of time",None,negative,Undetermined,10.938048,12.148787
+515-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-22.327818,-6.9924426
+517-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-24.893532,-9.615158
+519-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Fed,-8.35609,8.702298
+52-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Engorged,14.804068,-5.6964808
+52-02,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Engorged,15.002534,-5.7938757
+52-03,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Unfed,15.968423,-5.9371543
+522-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Unfed,-24.432098,-6.1166286
+522-02,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Unfed,-29.822258,3.4328585
+523-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,-23.292385,-2.2331052
+524-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Fed,-29.735907,4.1624517
+526-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,-25.978798,1.9609683
+528-01,Amblyomma americanum,Unknown,Nymph,"Yes, less than 24 hours",Rickettsia amblyommatis,Positive,Unfed,5.027291,-3.1349745
+529-01,Ixodes scapularis,Unknown,Nymph,"Yes, 24+ hours",None,negative,Unfed,10.498769,25.01312
+531-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,-13.6709385,-9.671601
+532-01,Dermacentor variabilis,Male,Adult,"Yes, less than 24 hours",None,negative,Engorged,-30.845129,4.7021956
+534-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-4.440843,10.610893
+536-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,-18.369177,0.16752909
+537-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Fed,-28.870905,4.0469704
+538-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Fed,-19.832323,-0.17974816
+54-01,Ixodes scapularis,Male,Adult,Unknown,None,negative,Engorged,3.6682441,38.82162
+54-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-11.591359,-18.858978
+54-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Engorged,-15.832956,-22.348799
+54-04,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.157854,-23.959053
+54-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.667516,-21.759634
+54-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.511491,-23.886751
+54-07,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-14.470209,-23.684492
+54-08,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.132103,-20.2328
+54-09,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.440829,-20.673214
+54-10,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.519744,-23.094799
+54-11,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-15.776424,-23.41562
+545-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-11.582878,4.944516
+546-01,Dermacentor variabilis,Female,Adult,No,None,negative,Unfed,-19.734951,-10.35196
+549-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,-7.8483067,9.1299925
+550-01,Dermacentor variabilis,Female,Adult,"Yes, 24+ hours",None,negative,Unfed,-7.331253,8.966397
+55-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Unfed,12.296776,37.359158
+55-02,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Unfed,11.361985,37.193825
+55-08,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,12.721354,36.26866
+55-10,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Unfed,6.355622,39.587006
+553-01,Ixodes scapularis,Unknown,Larva,"Yes, less than 24 hours",None,negative,Unfed,7.5907903,21.054184
+555-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,-25.500757,-1.8952812
+556-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,-16.017769,3.6669977
+557-01,Dermacentor variabilis,Male,Adult,"Yes, unknown length of time",None,negative,Unfed,-23.042288,-12.254115
+56-01,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,14.857258,2.080827
+56-02,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,6.139185,-18.516264
+56-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-13.842076,-18.0085
+56-04,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,13.522203,3.846987
+56-05,Amblyomma americanum,Male,Adult,Unknown,Rickettsia amblyommatis,Positive,Fed,6.229628,-18.472515
+56-06,Amblyomma americanum,Male,Adult,Unknown,None,negative,Unfed,8.027426,-12.3693285
+561-01,Ixodes scapularis,Unknown,Larva,"Yes, unknown length of time",None,negative,Unfed,11.716074,6.9205575
+563-01,Haemaphysalis longicornis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,9.574625,15.904619
+566-01,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,-24.283445,-1.5605121
+566-02,Dermacentor variabilis,Female,Adult,"Yes, less than 24 hours",None,negative,Fed,-19.579851,3.533749
+569-01,Amblyomma americanum,Unknown,Nymph,"Yes, 24+ hours",Rickettsia amblyommatis,Positive,Unfed,4.146576,-2.5330656
+570-01,Dermacentor variabilis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,3.0366323,9.94051
+57-01,Amblyomma americanum,Unknown,Nymph,Unknown,None,negative,Unfed,12.526836,6.026981
+575-01,Ixodes scapularis,Unknown,Nymph,"Yes, 24+ hours",None,negative,Fed,3.0463734,20.132597
+579-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,2.200795,23.897552
+58-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Unfed,13.646107,-1.8267051
+584-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,4.8455257,29.519482
+585-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,4.2438912,27.714342
+588-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,5.6308293,30.745348
+589-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,2.6924026,29.989445
+590-01,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Engorged,4.1014805,21.896496
+59-02,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,2.6671023,38.51995
+59-03,Ixodes scapularis,Male,Adult,Unknown,None,negative,Fed,3.6286604,38.44654
+593-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,2.652922,31.109768
+594-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",Tick Control,negative,Engorged,6.498358,27.483463
+596-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Engorged,3.4067028,22.514837
+598-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",Borrelia burgdorferii s.s.,Positive,Engorged,2.8148298,16.87307
+598-02,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,0.71780664,22.752007
+600-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,3.6709473,29.606363
+60-01,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,1.9590002,37.2767
+60-02,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,2.5026822,37.915947
+60-03,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Unfed,1.6350564,36.578327
+608-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",Borrelia burgdorferii s.s.,Positive,Unfed,3.06012,18.538473
+609-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",Borrelia burgdorferii s.s.,Positive,Unfed,6.1827927,27.679369
+61-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Unfed,12.773861,-6.5815253
+61-02,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Unfed,13.195794,-6.829245
+61-03,Amblyomma americanum,Female,Adult,Unknown,None,negative,Unfed,7.6521945,-13.616174
+613-01,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Unfed,1.5597042,21.703596
+615-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",Borrelia burgdorferii s.s.,Positive,Engorged,5.5649605,26.51347
+617-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,3.459089,20.634705
+619-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,3.9034255,14.226982
+62-01,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Unfed,11.579147,-0.12841405
+62-02,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Engorged,14.548377,-7.476109
+62-03,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Unfed,13.476589,-1.2967091
+622-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,3.5691612,30.079412
+624-01,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Unfed,3.5516305,14.198772
+625-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours","Anaplasma phagocytophilum, Borrelia burgdorferi s.s.",Positive,Unfed,3.440616,28.86549
+625-02,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,3.956632,31.468899
+626-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,0.445782,20.165964
+627-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,4.616214,25.27155
+628-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,1.739804,29.305056
+630-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time","Anaplasma phagocytophilum, Borrelia burgdorferi s.s.",Positive,Fed,3.27926,27.404387
+63-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Unfed,-9.872091,-20.619268
+631-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Unfed,2.7936177,21.24895
+632-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,1.820181,16.58637
+633-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",Borrelia burgdorferii s.s.,Positive,Unfed,5.175616,22.718771
+634-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours","Borrelia burgdorferii s.s., Borrelia miyamotoi",Positive,Unfed,4.4112554,29.215162
+635-01,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Unfed,1.4406308,21.047274
+637-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours","Borrelia burgdorferii s.s., Borrelia miyamotoi",Positive,Unfed,4.6698155,26.791744
+639-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,2.6149995,21.86736
+640-01,Ixodes scapularis,Female,Adult,"Yes, less than 24 hours",None,negative,Unfed,1.9011731,19.614264
+641-01,Ixodes scapularis,Female,Adult,"Yes, unknown length of time",None,negative,Engorged,1.9528974,20.810562
+643-01,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Fed,4.493142,14.242352
+643-02,Ixodes scapularis,Female,Adult,"Yes, 24+ hours",None,negative,Undetermined,1.4500742,18.605774
+65-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,6.962123,44.670605
+65-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,5.9182715,44.26608
+65-03,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,5.3142257,44.876045
+65-04,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,4.597883,43.410374
+65-05,Ixodes scapularis,Female,Adult,Unknown,None,negative,Undetermined,6.777593,45.537537
+65-06,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,6.090928,43.805912
+65-07,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,5.1928225,43.915306
+65-08,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,9.139382,45.149837
+65-09,Ixodes scapularis,Male,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Undetermined,2.9733548,41.55406
+65-10,Ixodes scapularis,Male,Adult,Unknown,None,negative,Fed,3.661534,42.666306
+66-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-10.62725,-25.120226
+66-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.406809,-25.00513
+66-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.634204,-24.508968
+66-04,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-10.710038,-24.697233
+66-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.754637,-24.924236
+66-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.38007,-23.785082
+66-07,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Engorged,-11.418599,-22.167942
+66-08,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.1777525,-25.814638
+67-02,Amblyomma americanum,Female,Adult,Unknown,None,negative,Undetermined,13.920885,1.8473479
+68-01,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Fed,8.043773,41.142174
+68-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferi s.l.,Positive,Engorged,7.4123683,43.25891
+69-01,Amblyomma americanum,Unknown,Nymph,Unknown,Rickettsia amblyommatis,Positive,Fed,13.8455715,-12.819173
+69-02,Amblyomma americanum,Female,Adult,Unknown,Rickettsia amblyommatis,Positive,Undetermined,10.722982,3.008248
+70-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-11.775916,-23.016392
+97-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-10.872467,-20.399635
+GLN-0087-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Undetermined,-26.893263,-6.84526
+GLN-0087-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-25.707571,3.282282
+GLN-0087-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-30.050167,-1.0179527
+GLN-0087-04,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-25.789444,3.344715
+GLN-0087-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Undetermined,-29.477392,-2.020331
+GLN-0087-11,Haemaphysalis longicornis,Unknown,Nymph,Unknown,None,negative,Engorged,0.51710284,-2.0890648
+GLN-0087-12,Haemaphysalis longicornis,Unknown,Nymph,Unknown,None,negative,Undetermined,0.6597107,-2.5066445
+GLN-0087-13,Haemaphysalis longicornis,Unknown,Nymph,Unknown,None,negative,Engorged,0.803153,-2.8320296
+GLN-0087-14,Haemaphysalis longicornis,Unknown,Nymph,Unknown,None,negative,Undetermined,0.94541943,-3.3680863
+GLN-0087-15,Haemaphysalis longicornis,Female,Adult,Unknown,None,negative,Fed,0.9940325,-0.6809665
+OPL-0098-01,Haemaphysalis longicornis,Female,Adult,Yes,None,negative,Fed,3.0364845,7.0985236
+OPL-0102-01,Haemaphysalis longicornis,Female,Adult,Yes,None,negative,Undetermined,1.335136,1.8853523
+OPL-0102-02,Haemaphysalis longicornis,Female,Adult,Yes,None,negative,Fed,1.2687885,1.9914304
+OPL-0102-03,Haemaphysalis longicornis,Female,Adult,Yes,None,negative,Fed,2.811172,1.9142277
+OPL-0102-04,Haemaphysalis longicornis,Female,Adult,Yes,Theileria orientalis,Positive,Undetermined,2.802925,1.8959861
+OPL-0102-05,Haemaphysalis longicornis,Female,Adult,Yes,None,negative,Fed,8.481215,5.80165
+T10129,Haemaphysalis leporispalustris,Female,Adult,"Yes, unknown length of time",None,not_tested,Undetermined,18.908575,-6.622573
+T10136,Haemaphysalis leporispalustris,Male,Adult,"Yes, unknown length of time",None,not_tested,Undetermined,19.68297,-24.041666
+T10154,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Undetermined,18.44583,-20.467506
+T14496,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Undetermined,28.684486,-14.184883
+T14497,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,28.737518,-14.169026
+T14498,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Fed,30.196033,-16.784527
+T14499,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Fed,31.21619,-17.348978
+T14511,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Engorged,26.514309,-14.560079
+T14512,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,25.74304,-18.48155
+T14517-01,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,27.152275,-18.160196
+T14517-02,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,27.107433,-15.348374
+T14518,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Undetermined,28.707302,-18.007853
+T14534,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,25.685642,-17.749613
+T14540,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Fed,25.981678,-17.352839
+T14551,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Undetermined,27.641764,-14.1157875
+T14552,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Fed,29.585176,-17.926624
+T14578,Dermacentor variabilis,Unknown,Larva,No,None,not_tested,Undetermined,26.270468,-18.0936
+T14584,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Fed,30.542824,-17.165287
+T14596,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Undetermined,30.470564,-16.086851
+T14619,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Undetermined,16.75852,-16.488602
+T14620,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,16.618067,-16.26296
+T14621,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,18.299181,-15.17843
+T14622,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,15.371002,-16.589582
+T14623,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,15.91342,-15.556024
+T14660,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Fed,29.822042,-15.973538
+T14661,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Undetermined,29.666666,-15.769696
+T14666,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Undetermined,28.469563,-17.093866
+T14740,Amblyomma americanum,Unknown,Larva,No,None,not_tested,Undetermined,28.39812,-18.82424
+T15305,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,15.130091,-15.878749
+T15306,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,15.71882,-15.716833
+T15307,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Fed,19.42325,-15.183304
+T15308,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Undetermined,15.167755,-15.447212
+T15309,Amblyomma americanum,Unknown,Nymph,No,None,not_tested,Undetermined,19.222933,-15.175959
+T17492,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Engorged,24.439796,-2.1139455
+T17493,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,23.455946,-2.315901
+T17499,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Unfed,21.85981,-2.6103902
+T17507,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,23.378899,-1.5759335
+T17514,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Engorged,22.258022,-1.5593237
+T17515,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Undetermined,24.531185,-2.3128242
+T17516,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,21.714466,-20.154491
+T17565,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,22.494122,-2.1928275
+T18714,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,22.802958,-19.942482
+T18716,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Undetermined,22.427172,-20.300526
+T19368,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,20.530697,-26.699673
+T19369,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,19.130743,-26.42577
+T19370,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,19.759336,-26.901087
+T19371,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Undetermined,18.36301,-26.038317
+T19372,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Undetermined,19.22323,-27.213741
+T19373,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.954409,-26.621214
+T19374,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Undetermined,15.792149,-26.374643
+T19375,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,16.878025,-26.095806
+T19376,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Engorged,17.746712,-25.862152
+T19377,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,19.696125,-26.012781
+T19378,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,18.576437,-28.653484
+T19379,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.86044,-27.29162
+T19380,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.69731,-25.027258
+T19381,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,15.943598,-27.975958
+T19382,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.437737,-27.796045
+T19383,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Engorged,15.754054,-27.14474
+T19384,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Engorged,16.327753,-27.865782
+T19385,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.282768,-26.804123
+T19386,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,18.403646,-27.62704
+T19387,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,16.387432,-25.163456
+T19388,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.515379,-28.473755
+T19389,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,17.230665,-26.191036
+T19390,Haemaphysalis longicornis,Female,Adult,Unknown,None,not_tested,Fed,16.741179,-26.982485
+T19428,Haemaphysalis leporispalustris,Male,Adult,"Yes, unknown length of time",None,not_tested,Undetermined,18.844055,-22.31529
+T19565,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,18.595669,-4.3099947
+T19566,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,20.70761,-5.5600543
+T19567,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,17.871164,-2.4203582
+T19572,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,21.176378,-18.779844
+T19576,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,19.914434,-4.9872994
+T19577,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,19.101685,-2.307505
+T19578,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,19.143644,-2.9570045
+T19579,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,18.605333,-3.138397
+T19580,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,19.471947,-4.5733967
+T19581,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,18.37996,-3.70511
+T19582,Haemaphysalis leporispalustris,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,18.619976,-1.1011696
+T19730,Dermacentor variabilis,Unknown,Nymph,No,None,not_tested,Undetermined,15.480692,0.15417443
+T19731,Dermacentor variabilis,Unknown,Nymph,No,None,not_tested,Undetermined,15.2654085,-0.29344025
+T19738,Amblyomma americanum,Male,Adult,No,None,not_tested,Engorged,14.269119,-17.21756
+T19739,Amblyomma americanum,Male,Adult,No,None,not_tested,Fed,13.911249,-18.177095
+T19740,Amblyomma americanum,Male,Adult,No,None,not_tested,Undetermined,13.485906,-16.610296
+T19741,Amblyomma americanum,Female,Adult,No,None,not_tested,Fed,12.432531,-16.587347
+T19743,Amblyomma americanum,Female,Adult,No,None,not_tested,Engorged,12.247818,-16.22873
+T20209,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,20.957077,-18.56383
+T20210,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,22.52293,-19.16184
+T20221,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,22.637133,-18.468954
+T20222,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Engorged,23.107641,-20.091179
+T20310,Amblyomma americanum,Female,Adult,No,None,not_tested,Undetermined,12.499639,-16.256813
+T20344,Amblyomma americanum,Male,Adult,No,None,not_tested,Fed,13.996556,-17.793695
+T20446,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,23.465656,-18.522696
+T21824,Haemaphysalis leporispalustris,Unknown,Nymph,No,None,not_tested,Fed,21.786196,-18.585876
+T4777,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,24.63598,2.1179667
+T4779,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,25.069576,-0.75170827
+T4780,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,25.307568,-0.9908625
+T4782,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,24.598717,1.5128925
+T4783,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,25.001415,0.029017469
+T4784,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,25.399244,0.5662257
+T4785,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,23.946186,0.6052205
+T4786,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,23.963736,1.1083548
+T4789,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,24.270882,-0.8479928
+T4793,Amblyomma americanum,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Fed,23.924496,-0.2585951
+T6725,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,25.009678,-14.767025
+T6726,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,24.654295,-16.793865
+T6727,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,25.085749,-15.498911
+T6728,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Engorged,24.224796,-17.625439
+T6729,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Engorged,25.330822,-16.217485
+T6730,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,24.569595,-17.50103
+T6731,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,24.617678,-13.955685
+T6732,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,27.089937,-16.098692
+T6733,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,27.533642,-15.639873
+T6734,Haemaphysalis leporispalustris,Unknown,Larva,No,None,not_tested,Fed,26.05022,-16.356632
+T7843,Dermacentor variabilis,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,17.705608,-0.08523529
+T7844,Dermacentor variabilis,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Fed,17.03444,-0.18749125
+T7845,Dermacentor variabilis,Unknown,Nymph,"Yes, unknown length of time",None,not_tested,Undetermined,18.33926,-0.2528099
+T9841,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Unfed,22.889866,-1.2100449
+T9842,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Unfed,23.168175,-2.9146073
+T9843,Haemaphysalis leporispalustris,Unknown,Larva,"Yes, unknown length of time",None,not_tested,Unfed,23.620213,-2.9908156
+T9969,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,18.322773,-21.356812
+T9970,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,17.687834,-19.903126
+T9971,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,16.946745,-22.0171
+T9974,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,17.450392,-21.878263
+T9975,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,17.37973,-20.905096
+T9976,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,20.873108,-4.234868
+T9977,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,18.117704,-20.011108
+T9979,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,18.469687,-21.126947
+T9980,Haemaphysalis leporispalustris,Female,Adult,No,None,not_tested,Unfed,18.780603,-5.752139
+ZOE-0013-02,Amblyomma americanum,Male,Adult,No,None,negative,Engorged,11.195681,-23.773258
+ZOE-0013-04,Ixodes scapularis,Female,Adult,No,None,negative,Fed,7.938893,35.374763
+ZOE-0013-09,Ixodes scapularis,Male,Adult,Yes,None,negative,Fed,4.0234265,35.895855
+ZOE-0013-10,Ixodes scapularis,Female,Adult,Yes,None,negative,Unfed,8.911286,34.678593
+ZOE-0013-11,Ixodes scapularis,Female,Adult,Yes,None,negative,Unfed,9.202869,34.712296
+ZOE-0014-01,Amblyomma americanum,Male,Adult,Yes,Rickettsia amblyommatis,Positive,Unfed,9.904613,-22.481127
+ZOE-0014-02,Amblyomma americanum,Female,Adult,Yes,Rickettsia amblyommatis,Positive,Unfed,10.122403,-20.63696
+ZOE-0014-03,Amblyomma americanum,Unknown,Nymph,Yes,Rickettsia amblyommatis,Positive,Unfed,10.233164,-25.339457
+ZOE-0014-04,Ixodes scapularis,Male,Adult,No,None,negative,Unfed,4.4539304,35.862583
+ZOE-0014-05,Amblyomma americanum,Male,Adult,Yes,Rickettsia amblyommatis,Positive,Unfed,11.525864,-22.661753
+ZOE-0014-06,Ixodes scapularis,Female,Adult,Yes,None,negative,Fed,-1.3895915,20.167957
+ZOE-0014-07,Ixodes scapularis,Female,Adult,No,None,negative,Fed,5.7757773,36.886913
+ZOE-0014-08,Amblyomma americanum,Unknown,Nymph,Yes,Rickettsia amblyommatis,Positive,Fed,9.92803,-25.181917
+ZOE-0014-09,Amblyomma americanum,Male,Adult,Yes,Rickettsia amblyommatis,Positive,Fed,9.820387,-21.816368
+ZOE-0014-11,Amblyomma americanum,Male,Adult,No,Rickettsia amblyommatis,Positive,Fed,10.427049,-22.112722
+ZOE-0014-12,Amblyomma americanum,Female,Adult,Yes,Rickettsia amblyommatis,Positive,Fed,10.104963,-23.582506
+ZOE-0014-13,Amblyomma americanum,Female,Adult,Yes,None,negative,Fed,13.757131,-7.646653
+ZOE-0014-14,Amblyomma americanum,Male,Adult,No,None,negative,Fed,8.636861,-22.551178
+ZOE-0014-15,Amblyomma americanum,Male,Adult,Yes,None,negative,Fed,11.063626,-21.913824
+ZOE-0014-16,Dermacentor variabilis,Male,Adult,No,None,negative,Fed,-17.988441,-15.929045
+ZOE-0014-17,Amblyomma americanum,Male,Adult,Yes,None,negative,Fed,10.596979,-21.826359
+ZOE-0014-18,Amblyomma americanum,Male,Adult,No,Rickettsia amblyommatis,Positive,Fed,11.986405,-22.119122
+ZOE-0014-20,Amblyomma americanum,Male,Adult,Yes,Rickettsia amblyommatis,Positive,Fed,11.571587,-22.989597
+ZOE-0016-01,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-17.753942,-16.106762
+ZOE-0016-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,2.9809623,10.352978
+ZOE-0016-03,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-18.872114,6.4439535
+ZOE-0020-01,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-11.928623,10.587271
+ZOE-0020-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-11.521056,-9.644465
+ZOE-0021-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-10.9624815,10.288989
+ZOE-0021-03,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,9.775213,5.8805604
+ZOE-0022-02,Ixodes scapularis,Female,Adult,Unknown,Borrelia burgdorferii s.s.,Positive,Unfed,-0.8193442,20.429228
+ZOE-0022-03,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,12.588007,35.597164
+ZOE-0024-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,4.0488796,12.57924
+ZOE-0024-06,Ixodes scapularis,Male,Adult,Unknown,None,negative,Engorged,10.513652,37.601788
+ZOE-0024-07,Ixodes scapularis,Female,Adult,Unknown,None,negative,Engorged,7.991321,38.57276
+ZOE-0024-08,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,7.12653,37.38886
+ZOE-0024-09,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,7.994463,37.69547
+ZOE-0024-10,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,-1.1244891,18.71656
+ZOE-0024-11,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,4.5070724,36.263905
+ZOE-0024-15,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,7.162863,36.324818
+ZOE-0024-17,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,-1.6721507,17.916605
+ZOE-0024-19,Ixodes scapularis,Male,Adult,Unknown,None,negative,Fed,10.218524,37.186367
+ZOE-0024-20,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,6.9622617,37.810287
+ZOE-0024-21,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,9.63389,36.960423
+ZOE-0025-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,7.370209,35.038494
+ZOE-0025-03,Ixodes scapularis,Female,Adult,Unknown,None,negative,Fed,5.3335047,10.616847
+ZOE-0026-01,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,5.667077,34.66366
+ZOE-0026-02,Ixodes scapularis,Male,Adult,Unknown,None,negative,Unfed,3.3882358,35.446884
+ZOE-0026-04,Ixodes scapularis,Female,Adult,Unknown,None,negative,Unfed,5.604784,34.870083
+ZOE-0045-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Undetermined,-9.34418,-3.643413
+ZOE-0070-01,Ixodes scapularis,Female,Adult,Yes,None,negative,Undetermined,-2.1238954,13.723684
+ZOE-0077-01,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-30.826862,-7.9546537
+ZOE-0077-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-28.874392,-0.878293
+ZOE-0078-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-28.094147,-1.6183286
+ZOE-0078-03,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-24.474117,-12.710758
+ZOE-0079-01,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-29.543386,-0.18246049
+ZOE-0079-02,Ixodes scapularis,Female,Adult,Yes,None,negative,Unfed,3.0254655,26.561
+ZOE-0079-03,Ixodes scapularis,Female,Adult,Yes,None,negative,Unfed,-0.17390285,17.882992
+ZOE-0079-04,Amblyomma americanum,Male,Adult,Yes,None,negative,Unfed,-0.20611605,-5.37116
+ZOE-0079-05,Amblyomma americanum,Male,Adult,Yes,Rickettsia amblyommatis,Positive,Unfed,3.114776,-6.3344994
+ZOE-0079-06,Amblyomma americanum,Male,Adult,Yes,None,negative,Unfed,3.515485,-5.811877
+ZOE-0079-07,Amblyomma americanum,Female,Adult,Yes,None,negative,Undetermined,2.8298013,-7.456878
+ZOE-0079-08,Amblyomma americanum,Female,Adult,Yes,Rickettsia amblyommatis,Positive,Fed,-3.964625,-3.8199663
+ZOE-0079-09,Amblyomma americanum,Male,Adult,Yes,None,negative,Fed,0.3347617,-6.5988975
+ZOE-0079-10,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-23.88104,-3.7201045
+ZOE-0082-01,Amblyomma americanum,Female,Adult,Yes,None,negative,Fed,1.9521728,-8.043865
+ZOE-0082-02,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-23.93134,-10.291173
+ZOE-0082-03,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-23.894083,-8.829075
+ZOE-0082-04,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-29.113176,-11.943027
+ZOE-0082-05,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-28.821182,-9.934714
+ZOE-0082-07,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-0.36591074,11.924691
+ZOE-0082-08,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-21.529945,-9.370912
+ZOE-0083-01,Dermacentor variabilis,Female,Adult,No,None,negative,Fed,-24.555696,-2.988295
+ZOE-0084-01,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-27.973192,-12.039553
+ZOE-0084-02,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-12.449954,4.221386
+ZOE-0084-04,Dermacentor variabilis,Male,Adult,Unknown,None,negative,Fed,-25.66563,9.2732
+ZOE-0084-05,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-10.613856,3.916185
+ZOE-0084-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-13.450689,6.31219
+ZOE-0088-01,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-21.234867,-7.6845274
+ZOE-0088-02,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-14.091671,5.0922914
+ZOE-0089-01,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-25.925451,-3.6769567
+ZOE-0089-02,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-27.823149,-9.919049
+ZOE-0089-03,Dermacentor variabilis,Female,Adult,Yes,None,negative,Fed,-12.262446,5.7372713
+ZOE-0089-04,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-26.868032,5.2217755
+ZOE-0089-05,Ixodes scapularis,Unknown,Larva,Yes,None,negative,Fed,12.347056,19.482595
+ZOE-0089-06,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Fed,-21.262459,-2.4997075
+ZOE-0090-01,Dermacentor variabilis,Female,Adult,No,None,negative,Fed,-14.75772,-4.953573
+ZOE-0090-02,Dermacentor variabilis,Male,Adult,Yes,None,negative,Fed,-15.58346,-4.021159
+ZOE-0090-03,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-20.536701,2.0803142
+ZOE-0090-04,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-10.288075,0.22915907
+ZOE-0090-05,Dermacentor variabilis,Male,Adult,No,None,negative,Unfed,-15.578249,-4.111222
+ZOE-0091-01,Dermacentor variabilis,Female,Adult,No,None,negative,Unfed,-0.33950153,11.899041
+ZOE-0091-02,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-21.660015,-11.188614
+ZOE-0095-01,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-12.816474,5.5936728
+ZOE-0095-02,Dermacentor variabilis,Male,Adult,No,None,negative,Unfed,-24.66329,-11.550436
+ZOE-0095-03,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-27.16923,-11.646092
+ZOE-0095-04,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-28.734497,-12.765224
+ZOE-0096-01,Dermacentor variabilis,Female,Adult,No,None,negative,Unfed,1.4219966,8.188407
+ZOE-0096-02,Amblyomma americanum,Female,Adult,No,None,negative,Unfed,1.9069297,-5.4445057
+ZOE-0096-03,Dermacentor variabilis,Male,Adult,No,None,negative,Unfed,-26.491903,-8.496976
+ZOE-0096-04,Dermacentor variabilis,Male,Adult,No,None,negative,Unfed,-25.062359,-7.4661922
+ZOE-0096-05,Dermacentor variabilis,Female,Adult,No,None,negative,Unfed,-10.656828,6.181181
+ZOE-0096-06,Dermacentor variabilis,Female,Adult,No,None,negative,Unfed,-10.7322035,7.244633
+ZOE-0096-07,Dermacentor variabilis,Male,Adult,No,None,negative,Unfed,-16.452614,-10.033123
+ZOE-0097-01,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-5.548185,5.6085443
+ZOE-0100-01,Dermacentor variabilis,Female,Adult,Unknown,None,negative,Unfed,-31.293694,-5.665734
+ZOE-0100-02,Dermacentor variabilis,Male,Adult,Yes,None,negative,Unfed,-26.024033,-9.296589
+ZOE-0100-03,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-7.471422,-1.7862388
+ZOE-0100-04,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-11.522238,5.6747684
+ZOE-0101-01,Dermacentor variabilis,Female,Adult,Yes,None,negative,Unfed,-13.681921,4.183966
+ZOE-0101-02,Ixodes scapularis,Unknown,Nymph,Yes,None,negative,Unfed,14.887573,24.552881

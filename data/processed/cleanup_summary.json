@@ -1,0 +1,128 @@
+{
+    "generated": "2026-03-27 00:35:38",
+    "source_csv": "/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/data/raw/CSVs/AI Image Data Mar 13 2026.csv",
+    "min_specimens": 50,
+    "generic_ixodes_removed": 103,
+    "cookei_duplicates_removed": 22,
+    "cookei_duplicate_ids": [
+        "T14748a",
+        "T16319a",
+        "T306a",
+        "T307a",
+        "T308a",
+        "T309a",
+        "T310a",
+        "T311a",
+        "T312a",
+        "T313a",
+        "T315a",
+        "T316a",
+        "T317a",
+        "T318a",
+        "T319a",
+        "T320a",
+        "T321a",
+        "T322a",
+        "T323a",
+        "T324a",
+        "T325a",
+        "T9394a"
+    ],
+    "broken_specimens_removed": 0,
+    "pathogen_stats": {
+        "not_tested": 212,
+        "negative": 516,
+        "positive": 96
+    },
+    "species_kept": {
+        "Amblyomma americanum": 124,
+        "Dermacentor variabilis": 318,
+        "Haemaphysalis leporispalustris": 53,
+        "Haemaphysalis longicornis": 52,
+        "Ixodes scapularis": 174
+    },
+    "species_removed": {
+        "Ixodes cookei": 30,
+        "Amblyomma maculatum": 26,
+        "Ixodes dentatus": 25,
+        "Ixodes kingi": 6,
+        "Dermacentor andersoni": 1,
+        "Ixodes banksi": 1,
+        "Ixodes texanus": 1,
+        "Ixodes brunneus": 1,
+        "Ixodes muris": 1
+    },
+    "final_specimens": 721,
+    "final_images": 1442,
+    "missing_image_specimens": [
+        "180-01",
+        "246-01",
+        "33-01",
+        "571-01",
+        "572-01",
+        "572-02",
+        "573-01",
+        "576-01",
+        "581-01",
+        "583-01",
+        "ZOE-0086-01"
+    ],
+    "change_log": [
+        {
+            "category": "LOAD",
+            "message": "Loaded 995 records from CSV"
+        },
+        {
+            "category": "CLEAN",
+            "message": "Dropped 41 rows with missing Sample ID or Species"
+        },
+        {
+            "category": "DEDUP",
+            "message": "Removed 5 duplicate Sample IDs (kept first occurrence)"
+        },
+        {
+            "category": "LABELS",
+            "message": "Cleaned 274 labels (2 unique)"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removed 103 generic 'Ixodes' specimens (no species-level ID)"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removed 22 Ixodes cookei duplicates (Sample ID ending in 'a')"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removed 0 broken specimens (data quality issues)"
+        },
+        {
+            "category": "ANNOTATE",
+            "message": "Pathogen results: {'not_tested': 212, 'negative': 516, 'positive': 96}"
+        },
+        {
+            "category": "FILTER",
+            "message": "Kept 5 species with \u226550 specimens, removed 9"
+        },
+        {
+            "category": "LOAD",
+            "message": "Found 1881 image files in directory"
+        },
+        {
+            "category": "BUILD",
+            "message": "Created 1442 image entries (721 specimens \u00d7 2 views)"
+        },
+        {
+            "category": "EXCLUDE",
+            "message": "Excluded 11 specimens with missing image pairs"
+        },
+        {
+            "category": "SAVE",
+            "message": "Wrote final_data_cleaned.json"
+        },
+        {
+            "category": "SAVE",
+            "message": "Wrote class_names_cleaned.json (5 species)"
+        }
+    ]
+}
