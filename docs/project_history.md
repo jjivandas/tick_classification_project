@@ -344,9 +344,7 @@ All paths are relative to the project root:
 
 ### Immediate Next Steps
 
-1. **SVM Hyperparameter Optimization:** Systematic grid or random search over SVM hyperparameters (C, gamma, kernel type). Currently using default `SVC(kernel='rbf', class_weight='balanced')`. Expected improvement: 1-2 percentage points in macro accuracy.
-
-2. **Cross-validation strategy:** Consider nested cross-validation for more robust hyperparameter selection.
+1. **SVM Hyperparameter Optimization:** Systematic grid search over SVM hyperparameters (C, gamma, kernel type) using `GridSearchCV` with 5-fold stratified cross-validation. Currently using default `SVC(C=1.0, gamma='scale', kernel='rbf', class_weight='balanced')`. Expected improvement: 1-2 percentage points in macro accuracy. Implementation: `notebooks/04_hyperparameter_search.ipynb`.
 
 ### Longer-Term Directions
 
@@ -366,6 +364,7 @@ All paths are relative to the project root:
 | `notebooks/02_bioclip_inference.ipynb` | BioCLIP zero-shot evaluation + embedding extraction |
 | `notebooks/03_finetuning_svm_new.ipynb` | Few-shot SVM training and evaluation |
 | `scripts/data_cleanup.py` | Systematic data curation pipeline |
+| `notebooks/04_hyperparameter_search.ipynb` | SVM hyperparameter optimization (GridSearchCV) |
 | `scripts/embedding_explorer.py` | t-SNE + UMAP visualization |
 | `config/paths.json` | Centralized path configuration |
 | `data/processed/final_data_cleaned.json` | Cleaned dataset (721 specimens, 5 species) |
