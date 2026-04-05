@@ -1,0 +1,16 @@
+=== Sun Apr  5 12:26:01 AM EDT 2026: Running 01_data_exploration ===
+[NbConvertApp] Converting notebook notebooks/01_data_exploration.ipynb to notebook
+[NbConvertApp] Writing 83460 bytes to notebooks/executed/01_data_exploration.ipynb
+=== Sun Apr  5 12:26:09 AM EDT 2026: 01_data_exploration DONE ===
+=== Sun Apr  5 12:26:09 AM EDT 2026: Running 02_bioclip_inference ===
+[NbConvertApp] Converting notebook notebooks/02_bioclip_inference.ipynb to notebook
+[NbConvertApp] Writing 1307708 bytes to notebooks/executed/02_bioclip_inference.ipynb
+=== Sun Apr  5 12:31:36 AM EDT 2026: 02_bioclip_inference DONE ===
+=== Sun Apr  5 12:31:36 AM EDT 2026: Running 03_finetuning_svm_new ===
+[NbConvertApp] Converting notebook notebooks/03_finetuning_svm_new.ipynb to notebook
+[NbConvertApp] Writing 4192136 bytes to notebooks/executed/03_finetuning_svm_new.ipynb
+=== Sun Apr  5 12:39:19 AM EDT 2026: 03_finetuning_svm_new DONE ===
+=== Sun Apr  5 12:39:19 AM EDT 2026: Running 04_hyperparameter_search ===
+[NbConvertApp] Converting notebook notebooks/04_hyperparameter_search.ipynb to notebook
+[NbConvertApp] Writing 1602997 bytes to notebooks/executed/04_hyperparameter_search.ipynb
+=== Sun Apr  5 12:44:48 AM EDT 2026: 04_hyperparameter_search DONE ===

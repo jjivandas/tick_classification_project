@@ -2,8 +2,11 @@
   "metadata_csv": "data/raw/CSVs/AI Image Data Mar 13 2026.csv",
   "image_dir": "data/raw/idi",
   "processed_dir": "data/processed",
+  "data_json": "data/processed/final_data_cleaned.json",
+  "class_names_json": "data/processed/class_names_cleaned.json",
   "emb_cache_dir": "data/processed/emb_cache",
   "results_dir": "results",
   "svm_results_dir": "results/svm",
+  "svm_hp_results_dir": "results/svm_hp",
   "bioclip_results_dir": "results/bioclip_zeroshot"
 }

@@ -1,13 +1,12 @@
 {
-    "generated": "2026-03-27 00:35:38",
+    "generated": "2026-04-05 00:26:07",
     "source_csv": "/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/data/raw/CSVs/AI Image Data Mar 13 2026.csv",
     "min_specimens": 50,
-    "generic_ixodes_removed": 103,
-    "cookei_duplicates_removed": 22,
+    "generic_ixodes_removed": 102,
+    "cookei_duplicates_removed": 21,
     "cookei_duplicate_ids": [
         "T14748a",
         "T16319a",
-        "T306a",
         "T307a",
         "T308a",
         "T309a",
@@ -30,9 +29,9 @@
     ],
     "broken_specimens_removed": 0,
     "pathogen_stats": {
-        "not_tested": 212,
-        "negative": 516,
-        "positive": 96
+        "negative": 499,
+        "Positive": 94,
+        "not_tested": 128
     },
     "species_kept": {
         "Amblyomma americanum": 124,
@@ -42,7 +41,7 @@
         "Ixodes scapularis": 174
     },
     "species_removed": {
-        "Ixodes cookei": 30,
+        "Ixodes cookei": 28,
         "Amblyomma maculatum": 26,
         "Ixodes dentatus": 25,
         "Ixodes kingi": 6,
@@ -54,75 +53,82 @@
     },
     "final_specimens": 721,
     "final_images": 1442,
-    "missing_image_specimens": [
-        "180-01",
-        "246-01",
-        "33-01",
-        "571-01",
-        "572-01",
-        "572-02",
-        "573-01",
-        "576-01",
-        "581-01",
-        "583-01",
-        "ZOE-0086-01"
-    ],
     "change_log": [
         {
             "category": "LOAD",
             "message": "Loaded 995 records from CSV"
         },
         {
-            "category": "CLEAN",
-            "message": "Dropped 41 rows with missing Sample ID or Species"
-        },
-        {
             "category": "DEDUP",
-            "message": "Removed 5 duplicate Sample IDs (kept first occurrence)"
-        },
-        {
-            "category": "LABELS",
-            "message": "Cleaned 274 labels (2 unique)"
-        },
-        {
-            "category": "FILTER",
-            "message": "Removed 103 generic 'Ixodes' specimens (no species-level ID)"
-        },
-        {
-            "category": "FILTER",
-            "message": "Removed 22 Ixodes cookei duplicates (Sample ID ending in 'a')"
-        },
-        {
-            "category": "FILTER",
-            "message": "Removed 0 broken specimens (data quality issues)"
-        },
-        {
-            "category": "ANNOTATE",
-            "message": "Pathogen results: {'not_tested': 212, 'negative': 516, 'positive': 96}"
-        },
-        {
-            "category": "FILTER",
-            "message": "Kept 5 species with \u226550 specimens, removed 9"
+            "message": "Removed 45 duplicate Sample IDs (kept first occurrence)"
         },
         {
             "category": "LOAD",
             "message": "Found 1881 image files in directory"
         },
         {
+            "category": "WARN",
+            "message": "Specimens with only 1 image will be excluded: ['33-01', '246-01']"
+        },
+        {
+            "category": "INFO",
+            "message": "Specimens with 3+ images (extra images ignored): ['435-01']"
+        },
+        {
+            "category": "MISMATCH",
+            "message": "CSV IDs with no images: ['180-01', '571-01', '572-01', '572-02', '573-01', '576-01', '578-01', '581-01', '583-01', 'T17473', 'T19640', 'T306a', 'ZOE-0086-01', nan]"
+        },
+        {
+            "category": "MISMATCH",
+            "message": "Image IDs not in CSV: ['31-01', '59-01', 'ZOE-0086-02', 'ZOE-0095-05', 't19640']"
+        },
+        {
+            "category": "FILTER",
+            "message": "Proceeding with 936 specimens that have matching CSV + image data"
+        },
+        {
+            "category": "LABELS",
+            "message": "Cleaned 270 labels (3 unique transformations)"
+        },
+        {
             "category": "BUILD",
-            "message": "Created 1442 image entries (721 specimens \u00d7 2 views)"
+            "message": "Created 1868 image entries (934 specimens \u00d7 2 views)"
         },
         {
             "category": "EXCLUDE",
-            "message": "Excluded 11 specimens with missing image pairs"
+            "message": "Excluded 2 specimens missing dorsal/ventral pair: ['246-01', '33-01']"
         },
         {
             "category": "SAVE",
-            "message": "Wrote final_data_cleaned.json"
+            "message": "Saved full dataset to final_data.json"
         },
         {
             "category": "SAVE",
-            "message": "Wrote class_names_cleaned.json (5 species)"
+            "message": "Saved 15 species to class_names.json"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removing 102 specimens with incomplete labels: {'Ixodes'}"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removing 21 Ixodes cookei duplicates (Sample ID ending in 'a')"
+        },
+        {
+            "category": "FILTER",
+            "message": "Removing 0 broken specimens (data quality issues)"
+        },
+        {
+            "category": "FILTER",
+            "message": "Kept 5 species with \u226550 specimens, removed 9"
+        },
+        {
+            "category": "SAVE",
+            "message": "Saved cleaned dataset to final_data_cleaned.json"
+        },
+        {
+            "category": "SAVE",
+            "message": "Saved 5 species to class_names_cleaned.json"
         }
     ]
 }

@@ -1,1 +1,1 @@
-/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/results/bioclip_zeroshot/runs/260324_164145/bioclip_results.npz
+/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/results/bioclip_zeroshot/runs/260405_003132/bioclip_results.npz
