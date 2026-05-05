@@ -1,2 +1,184 @@
 [NbConvertApp] Converting notebook notebooks/04_hyperparameter_search.ipynb to notebook
-[NbConvertApp] Writing 6739693 bytes to notebooks/executed/04_hyperparameter_search.ipynb
+Traceback (most recent call last):
+  File "/apps/project/ondemand/app_jupyter/4.1.5/bin/jupyter-nbconvert", line 8, in <module>
+    sys.exit(main())
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/jupyter_core/application.py", line 283, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+  File "/usr/lib64/python3.9/asyncio/base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/apps/project/ondemand/app_jupyter/4.1.5/lib64/python3.9/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+# === Comparison plots: all configs (previous + new) ===
+
+CONFIG_COLORS = {
+    'A_default': '#4C72B0',
+    'B_smooth': '#E07B39',
+    'C_tight': '#55A868',
+    'D_linear': '#C44E52',
+    'E_regularized': '#8172B2',
+    'G_finer': '#CCB974',
+    'H_wider': '#64B5CD',
+    'I_tiny_gamma': '#DD8452',
+    'J_logreg': '#000000',
+}
+
+all_names = sorted(config_summaries.keys())
+
+# ── Plot: All configs macro accuracy overlay ──
+fig, ax = plt.subplots(figsize=(12, 7))
+for config_name in all_names:
+    s = config_summaries[config_name]
+    color = CONFIG_COLORS.get(config_name, '#999999')
+    style = 'o-' if config_name == best_config else 'o--'
+    lw = 2.5 if config_name == best_config else 1.5
+    alpha = 1.0 if config_name == best_config else 0.7
+    ax.plot(s['shots'], s['mean_macro'], style, color=color,
+            linewidth=lw, markersize=7, label=config_name, alpha=alpha)
+    ax.fill_between(s['shots'],
+                    s['mean_macro'] - s['ci95_macro'],
+                    s['mean_macro'] + s['ci95_macro'],
+                    alpha=0.08, color=color)
+
+ax.yaxis.set_major_formatter(PercentFormatter(1.0))
+ax.set_xticks(shots_grid)
+ax.set_ylim(0.5, 1.0)
+ax.set_xlabel('Shots per species', fontsize=12)
+ax.set_ylabel('Macro accuracy', fontsize=12)
+ax.set_title('Macro Accuracy — All Configs\n(mean +/- 95% CI, 100 MC runs)', fontsize=13)
+ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
+ax.grid(True, axis='y', alpha=0.25)
+plt.tight_layout()
+plt.savefig(COMP_DIR / 'plots' / 'all_configs_macro_overlay.png', dpi=200, bbox_inches='tight')
+plt.show()
+
+# ── Plot: All configs overall accuracy overlay ──
+fig, ax = plt.subplots(figsize=(12, 7))
+for config_name in all_names:
+    s = config_summaries[config_name]
+    color = CONFIG_COLORS.get(config_name, '#999999')
+    style = 'o-' if config_name == best_config else 'o--'
+    lw = 2.5 if config_name == best_config else 1.5
+    alpha = 1.0 if config_name == best_config else 0.7
+    ax.plot(s['shots'], s['mean_overall'], style, color=color,
+            linewidth=lw, markersize=7, label=config_name, alpha=alpha)
+    ax.fill_between(s['shots'],
+                    s['mean_overall'] - s['ci95_overall'],
+                    s['mean_overall'] + s['ci95_overall'],
+                    alpha=0.08, color=color)
+
+ax.yaxis.set_major_formatter(PercentFormatter(1.0))
+ax.set_xticks(shots_grid)
+ax.set_ylim(0.5, 1.0)
+ax.set_xlabel('Shots per species', fontsize=12)
+ax.set_ylabel('Overall accuracy', fontsize=12)
+ax.set_title('Overall Accuracy — All Configs\n(mean +/- 95% CI, 100 MC runs)', fontsize=13)
+ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize=9)
+ax.grid(True, axis='y', alpha=0.25)
+plt.tight_layout()
+plt.savefig(COMP_DIR / 'plots' / 'all_configs_overall_overlay.png', dpi=200, bbox_inches='tight')
+plt.show()
+
+# ── Plot: Best vs Default macro ──
+if best_config != 'A_default':
+    fig, ax = plt.subplots(figsize=(10, 6))
+    d = config_summaries['A_default']
+    b = config_summaries[best_config]
+    
+    ax.plot(d['shots'], d['mean_macro'], 'o--', color='#4C72B0', linewidth=1.5,
+            markersize=6, label='A_default (C=1, scale, rbf)', alpha=0.7)
+    ax.fill_between(d['shots'], d['mean_macro'] - d['ci95_macro'],
+                    d['mean_macro'] + d['ci95_macro'], alpha=0.1, color='#4C72B0')
+    
+    ax.plot(b['shots'], b['mean_macro'], 'o-',
+            color=CONFIG_COLORS.get(best_config, '#E07B39'),
+            linewidth=2.5, markersize=8, label=f'{best_config}')
+    ax.fill_between(b['shots'], b['mean_macro'] - b['ci95_macro'],
+                    b['mean_macro'] + b['ci95_macro'], alpha=0.15,
+                    color=CONFIG_COLORS.get(best_config, '#E07B39'))
+    
+    for _, row in b.iterrows():
+        ax.annotate(f"{row['mean_macro']*100:.1f}%",
+                    (row['shots'], row['mean_macro']),
+                    textcoords='offset points', xytext=(0, 12),
+                    fontsize=9, fontweight='bold', ha='center',
+                    color=CONFIG_COLORS.get(best_config, '#E07B39'))
+    
+    ax.yaxis.set_major_formatter(PercentFormatter(1.0))
+    ax.set_xticks(shots_grid); ax.set_ylim(0.5, 1.0)
+    ax.set_xlabel('Shots per species', fontsize=12)
+    ax.set_ylabel('Macro accuracy', fontsize=12)
+    ax.set_title(f'Macro Accuracy: Default vs. Best ({best_config})\n(mean +/- 95% CI)', fontsize=13)
+    ax.legend(loc='lower right', fontsize=10)
+    ax.grid(alpha=0.3)
+    plt.tight_layout()
+    plt.savefig(COMP_DIR / 'plots' / 'best_vs_default_macro.png', dpi=200, bbox_inches='tight')
+    plt.show()
+else:
+    print("Default config IS the best — no comparison plot needed.")
+
+# ── Save comparison summary CSV ──
+comp_rows = []
+for config_name in all_names:
+    s = config_summaries[config_name]
+    p = ALL_CONFIGS.get(config_name, {})
+    for _, row in s.iterrows():
+        comp_rows.append({
+            'config': config_name,
+            'C': p.get('C', 'auto'), 'gamma': str(p.get('gamma', 'n/a')),
+            'kernel': p.get('kernel', p.get('type', 'n/a')),
+            'shots': int(row['shots']),
+            'mean_macro': row['mean_macro'],
+            'ci95_macro': row['ci95_macro'],
+            'mean_overall': row['mean_overall'],
+            'ci95_overall': row.get('ci95_overall', np.nan),
+        })
+comp_df = pd.DataFrame(comp_rows)
+comp_df.to_csv(COMP_DIR / 'analysis' / 'all_configs_summary.csv', index=False)
+print(f"Comparison summary saved to {COMP_DIR / 'analysis' / 'all_configs_summary.csv'}")
+------------------
+
+
+[31m---------------------------------------------------------------------------[39m
+[31mKeyError[39m                                  Traceback (most recent call last)
+[36mCell[39m[36m [39m[32mIn[8][39m[32m, line 74[39m
+[32m     72[39m [38;5;28;01mif[39;00m best_config != [33m'[39m[33mA_default[39m[33m'[39m:
+[32m     73[39m     fig, ax = plt.subplots(figsize=([32m10[39m, [32m6[39m))
+[32m---> [39m[32m74[39m     d = [43mconfig_summaries[49m[43m[[49m[33;43m'[39;49m[33;43mA_default[39;49m[33;43m'[39;49m[43m][49m
+[32m     75[39m     b = config_summaries[best_config]
+[32m     77[39m     ax.plot(d[[33m'[39m[33mshots[39m[33m'[39m], d[[33m'[39m[33mmean_macro[39m[33m'[39m], [33m'[39m[33mo--[39m[33m'[39m, color=[33m'[39m[33m#4C72B0[39m[33m'[39m, linewidth=[32m1.5[39m,
+[32m     78[39m             markersize=[32m6[39m, label=[33m'[39m[33mA_default (C=1, scale, rbf)[39m[33m'[39m, alpha=[32m0.7[39m)
+
+[31mKeyError[39m: 'A_default'
+

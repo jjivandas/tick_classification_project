@@ -1,0 +1,92 @@
+{
+  "timestamp": "260504_234542",
+  "shots_for_viewer": [
+    0,
+    1,
+    10,
+    25,
+    35
+  ],
+  "shots_for_proba": [
+    1,
+    10,
+    25,
+    35
+  ],
+  "n_runs": 100,
+  "base_seed": 42,
+  "seed_scheme": "sha256(f'{BASE_SEED}_{k}_{run_id}').hexdigest()[:8] mod 2^31  (matches notebook 04 line 141)",
+  "hp_config": "G_finer",
+  "hp_params": {
+    "C": 10,
+    "gamma": 0.0005,
+    "kernel": "rbf"
+  },
+  "hp_source_run": "results/svm_hp/runs/260405_225314",
+  "n_specimens": 721,
+  "embedding_dim_raw": 768,
+  "min_total_per_species": 50,
+  "metadata_fields": [
+    "species",
+    "sex",
+    "life_stage",
+    "attached",
+    "pathogen",
+    "pathogen_result",
+    "tick_condition"
+  ],
+  "species_palette": {
+    "Amblyomma americanum": "#1f77b4",
+    "Dermacentor variabilis": "#ff7f0e",
+    "Haemaphysalis leporispalustris": "#2ca02c",
+    "Haemaphysalis longicornis": "#d62728",
+    "Ixodes scapularis": "#9467bd"
+  },
+  "reproducibility_check": [
+    {
+      "shots": 1,
+      "matches": 9,
+      "total": 71600,
+      "agreement": 0.00012569832402234638,
+      "row_sum_max_dev": 4.440892098500626e-16
+    },
+    {
+      "shots": 10,
+      "matches": 65327,
+      "total": 67100,
+      "agreement": 0.9735767511177347,
+      "row_sum_max_dev": 6.661338147750939e-16
+    },
+    {
+      "shots": 25,
+      "matches": 58927,
+      "total": 59600,
+      "agreement": 0.9887080536912751,
+      "row_sum_max_dev": 9.992007221626409e-16
+    },
+    {
+      "shots": 35,
+      "matches": 54081,
+      "total": 54600,
+      "agreement": 0.9904945054945055,
+      "row_sum_max_dev": 9.992007221626409e-16
+    }
+  ],
+  "species_recovery_argmax_at_max_k": 0.9694868238557559,
+  "outputs": {
+    "coords_csv": "coords.csv",
+    "proba_npy": [
+      "proba_mean_k1.npy",
+      "proba_mean_k10.npy",
+      "proba_mean_k25.npy",
+      "proba_mean_k35.npy"
+    ],
+    "class_order_json": [
+      "class_order_k1.json",
+      "class_order_k10.json",
+      "class_order_k25.json",
+      "class_order_k35.json"
+    ],
+    "viewer_html": "viewer.html"
+  }
+}
