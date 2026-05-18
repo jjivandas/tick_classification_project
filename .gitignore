@@ -1,3 +1,4 @@
 data/raw/
 data/processed/emb_cache/
 .html
+results/tsne/powerpoint_exports/pngs/

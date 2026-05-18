@@ -1,0 +1,4 @@
+mode,macro_acc,n_species,run_dir
+both,0.5927319932430433,5,/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/results/bioclip_zeroshot/runs/260405_003132
+dorsal,0.6048922551692926,5,/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/results/bioclip_zeroshot/runs/260518_000615_dorsal
+ventral,0.5410416777659206,5,/fs/ess/PAS2136/jjivandas/projects/tick_classification_project/results/bioclip_zeroshot/runs/260518_001351_ventral

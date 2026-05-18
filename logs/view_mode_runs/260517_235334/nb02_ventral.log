@@ -1,0 +1,75 @@
+[NbConvertApp] Converting notebook /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334/nb02_ventral.ipynb to notebook
+Traceback (most recent call last):
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/bin/jupyter-nbconvert", line 6, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/jupyter_core/application.py", line 284, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+import sys
+from pathlib import Path
+repo_root = Path.cwd().resolve().parent
+if str(repo_root) not in sys.path:
+    sys.path.insert(0, str(repo_root))
+from src.utils.paths import load_paths
+paths = load_paths()
+
+------------------
+
+
+[31m---------------------------------------------------------------------------[39m
+[31mModuleNotFoundError[39m                       Traceback (most recent call last)
+[36mCell[39m[36m [39m[32mIn[1][39m[32m, line 6[39m
+[32m      4[39m [38;5;28;01mif[39;00m [38;5;28mstr[39m(repo_root) [38;5;129;01mnot[39;00m [38;5;129;01min[39;00m sys.path:
+[32m      5[39m     sys.path.insert([32m0[39m, [38;5;28mstr[39m(repo_root))
+[32m----> [39m[32m6[39m [38;5;28;01mfrom[39;00m[38;5;250m [39m[34;01msrc[39;00m[34;01m.[39;00m[34;01mutils[39;00m[34;01m.[39;00m[34;01mpaths[39;00m[38;5;250m [39m[38;5;28;01mimport[39;00m load_paths
+[32m      7[39m paths = load_paths()
+
+[31mModuleNotFoundError[39m: No module named 'src'
+

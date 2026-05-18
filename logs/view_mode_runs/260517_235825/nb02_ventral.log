@@ -1,0 +1,112 @@
+[NbConvertApp] Converting notebook /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/notebooks/.tmp_nb02_ventral.ipynb to notebook
+Traceback (most recent call last):
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/_inductor/compile_worker/__main__.py", line 7, in <module>
+    from torch._inductor.async_compile import pre_fork_setup
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/__init__.py", line 2604, in <module>
+    from torch import _meta_registrations
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/_meta_registrations.py", line 11, in <module>
+    from torch._decomp import (
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/_decomp/__init__.py", line 284, in <module>
+    import torch._decomp.decompositions
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/_decomp/decompositions.py", line 1161, in <module>
+    @register_decomposition(aten._softmax)
+                            ^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/torch/_ops.py", line 1243, in __getattr__
+Traceback (most recent call last):
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/bin/jupyter-nbconvert", line 6, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/jupyter_core/application.py", line 284, in launch_instance
+    super().launch_instance(argv=argv, **kwargs)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/traitlets/config/application.py", line 1075, in launch_instance
+    app.start()
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 420, in start
+    self.convert_notebooks()
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 597, in convert_notebooks
+    self.convert_single_notebook(notebook_filename)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 563, in convert_single_notebook
+    output, resources = self.export_single_notebook(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/nbconvertapp.py", line 487, in export_single_notebook
+    output, resources = self.exporter.from_filename(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 201, in from_filename
+    return self.from_file(f, resources=resources, **kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 220, in from_file
+    return self.from_notebook_node(
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/notebook.py", line 36, in from_notebook_node
+    nb_copy, resources = super().from_notebook_node(nb, resources, **kw)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 154, in from_notebook_node
+    nb_copy, resources = self._preprocess(nb_copy, resources)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/exporters/exporter.py", line 353, in _preprocess
+    nbc, resc = preprocessor(nbc, resc)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/base.py", line 48, in __call__
+    return self.preprocess(nb, resources)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 103, in preprocess
+    self.preprocess_cell(cell, resources, index)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbconvert/preprocessors/execute.py", line 124, in preprocess_cell
+    cell = self.execute_cell(cell, index, store_history=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/jupyter_core/utils/__init__.py", line 165, in wrapped
+    return loop.run_until_complete(inner)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/asyncio/base_events.py", line 654, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbclient/client.py", line 1062, in async_execute_cell
+    await self._check_raise_for_error(cell, cell_index, exec_reply)
+  File "/users/PAS2136/jjivandas/.conda/envs/tick_env/lib/python3.11/site-packages/nbclient/client.py", line 918, in _check_raise_for_error
+    raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
+nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
+------------------
+
+# Import the specific pybioclip classifier
+from bioclip import CustomLabelsClassifier
+
+# Initialize classifier with only the 8 species (N >= MIN_N)
+# This ensures BioCLIP and the SVM solve the same closed classification problem
+classifier = CustomLabelsClassifier(cls_ary=large_species_names, device=device)
+
+print(f"BioCLIP classifier initialized with {len(large_species_names)} species:")
+for sp in large_species_names:
+    print(f"  {sp}")
+
+print(f"BioCLIP classifier initialized successfully on {device}.")
+------------------
+
+
+[31m---------------------------------------------------------------------------[39m
+[31mRuntimeError[39m                              Traceback (most recent call last)
+[36mCell[39m[36m [39m[32mIn[5][39m[32m, line 6[39m
+[32m      2[39m [38;5;28;01mfrom[39;00m[38;5;250m [39m[34;01mbioclip[39;00m[38;5;250m [39m[38;5;28;01mimport[39;00m CustomLabelsClassifier
+[32m      4[39m [38;5;66;03m# Initialize classifier with only the 8 species (N >= MIN_N)[39;00m
+[32m      5[39m [38;5;66;03m# This ensures BioCLIP and the SVM solve the same closed classification problem[39;00m
+[32m----> [39m[32m6[39m classifier = [43mCustomLabelsClassifier[49m[43m([49m[43mcls_ary[49m[43m=[49m[43mlarge_species_names[49m[43m,[49m[43m [49m[43mdevice[49m[43m=[49m[43mdevice[49m[43m)[49m
+[32m      8[39m [38;5;28mprint[39m([33mf[39m[33m"[39m[33mBioCLIP classifier initialized with [39m[38;5;132;01m{[39;00m[38;5;28mlen[39m(large_species_names)[38;5;132;01m}[39;00m[33m species:[39m[33m"[39m)
+[32m      9[39m [38;5;28;01mfor[39;00m sp [38;5;129;01min[39;00m large_species_names:
+
+[36mFile [39m[32m~/.conda/envs/tick_env/lib/python3.11/site-packages/bioclip/predict.py:371[39m, in [36mCustomLabelsClassifier.__init__[39m[34m(self, cls_ary, **kwargs)[39m
+[32m    369[39m [38;5;28mself[39m.tokenizer = create_bioclip_tokenizer([38;5;28mself[39m.model_str)
+[32m    370[39m [38;5;28mself[39m.classes = [[38;5;28mcls[39m.strip() [38;5;28;01mfor[39;00m [38;5;28mcls[39m [38;5;129;01min[39;00m cls_ary]
+[32m--> [39m[32m371[39m [38;5;28mself[39m.txt_embeddings = [38;5;28;43mself[39;49m[43m.[49m[43m_get_txt_embeddings[49m[43m([49m[38;5;28;43mself[39;49m[43m.[49m[43mclasses[49m[43m)[49m
+
+[36mFile [39m[32m~/.conda/envs/tick_env/lib/python3.11/site-packages/torch/utils/_contextlib.py:116[39m, in [36mcontext_decorator.<locals>.decorate_context[39m[34m(*args, **kwargs)[39m
+[32m    113[39m [38;5;129m@functools[39m.wraps(func)
+[32m    114[39m [38;5;28;01mdef[39;00m[38;5;250m [39m[34mdecorate_context[39m(*args, **kwargs):
+[32m    115[39m     [38;5;28;01mwith[39;00m ctx_factory():
+[32m--> [39m[32m116[39m         [38;5;28;01mreturn[39;00m [43mfunc[49m[43m([49m[43m*[49m[43margs[49m[43m,[49m[43m [49m[43m*[49m[43m*[49m[43mkwargs[49m[43m)[49m
+
+[36mFile [39m[32m~/.conda/envs/tick_env/lib/python3.11/site-packages/bioclip/predict.py:383[39m, in [36mCustomLabelsClassifier._get_txt_embeddings[39m[34m(self, classnames)[39m
+[32m    381[39m     txt_features /= txt_features.norm()
+[32m    382[39m     all_features.append(txt_features)
+[32m--> [39m[32m383[39m all_features = [43mtorch[49m[43m.[49m[43mstack[49m[43m([49m[43mall_features[49m[43m,[49m[43m [49m[43mdim[49m[43m=[49m[32;43m1[39;49m[43m)[49m
+[32m    384[39m [38;5;28;01mreturn[39;00m all_features
+
+[31mRuntimeError[39m: stack expects a non-empty TensorList
+

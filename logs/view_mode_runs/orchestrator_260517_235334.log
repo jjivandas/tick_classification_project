@@ -1,0 +1,24 @@
+
+================================================================
+  MODE: dorsal   (Sun May 17 11:53:35 PM EDT 2026)
+================================================================
+[dorsal] Patching notebook 02...
+Patched VIEW_MODE="dorsal" in cell 0df1e41a -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334/nb02_dorsal.ipynb
+[dorsal] Executing notebook 02 (Sun May 17 11:53:35 PM EDT 2026)...
+[dorsal] notebook 02 FAILED — see /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334/nb02_dorsal.log
+
+================================================================
+  MODE: ventral   (Sun May 17 11:53:50 PM EDT 2026)
+================================================================
+[ventral] Patching notebook 02...
+Patched VIEW_MODE="ventral" in cell 0df1e41a -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334/nb02_ventral.ipynb
+[ventral] Executing notebook 02 (Sun May 17 11:53:50 PM EDT 2026)...
+[ventral] notebook 02 FAILED — see /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334/nb02_ventral.log
+
+================================================================
+  DONE  Sun May 17 11:53:55 PM EDT 2026
+================================================================
+Logs:   /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260517_235334
+Outputs:
+  results/bioclip_zeroshot/runs/<ts>_dorsal/  (and _ventral)
+  results/svm/runs/<ts>_dorsal/               (and _ventral)

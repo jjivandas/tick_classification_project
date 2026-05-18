@@ -1,0 +1,32 @@
+
+================================================================
+  MODE: dorsal   (Mon May 18 12:03:23 AM EDT 2026)
+================================================================
+[dorsal] Patching notebook 02...
+Patched VIEW_MODE="dorsal" in cell 0df1e41a -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/notebooks/.tmp_nb02_dorsal.ipynb
+[dorsal] Executing notebook 02 (Mon May 18 12:03:24 AM EDT 2026)...
+[dorsal] notebook 02 OK
+[dorsal] Patching notebook 03...
+Patched VIEW_MODE="dorsal" in cell d30e6522 -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/notebooks/.tmp_nb03_dorsal.ipynb
+[dorsal] Executing notebook 03 (Mon May 18 12:06:19 AM EDT 2026)...
+[dorsal] notebook 03 OK
+
+================================================================
+  MODE: ventral   (Mon May 18 12:10:08 AM EDT 2026)
+================================================================
+[ventral] Patching notebook 02...
+Patched VIEW_MODE="ventral" in cell 0df1e41a -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/notebooks/.tmp_nb02_ventral.ipynb
+[ventral] Executing notebook 02 (Mon May 18 12:10:08 AM EDT 2026)...
+[ventral] notebook 02 OK
+[ventral] Patching notebook 03...
+Patched VIEW_MODE="ventral" in cell d30e6522 -> /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/notebooks/.tmp_nb03_ventral.ipynb
+[ventral] Executing notebook 03 (Mon May 18 12:13:54 AM EDT 2026)...
+[ventral] notebook 03 OK
+
+================================================================
+  DONE  Mon May 18 12:17:41 AM EDT 2026
+================================================================
+Logs:   /fs/ess/PAS2136/jjivandas/projects/tick_classification_project/logs/view_mode_runs/260518_000323
+Outputs:
+  results/bioclip_zeroshot/runs/<ts>_dorsal/  (and _ventral)
+  results/svm/runs/<ts>_dorsal/               (and _ventral)

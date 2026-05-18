@@ -1,0 +1,26 @@
+species_true,species_pred,count,true_total,rate_within_true
+Amblyomma americanum,Amblyomma americanum,46020,66500,0.6920300751879699
+Amblyomma americanum,Dermacentor variabilis,1310,66500,0.01969924812030075
+Amblyomma americanum,Haemaphysalis leporispalustris,8396,66500,0.12625563909774437
+Amblyomma americanum,Haemaphysalis longicornis,8297,66500,0.12476691729323308
+Amblyomma americanum,Ixodes scapularis,2477,66500,0.03724812030075188
+Dermacentor variabilis,Amblyomma americanum,7598,182900,0.04154182613449973
+Dermacentor variabilis,Dermacentor variabilis,158111,182900,0.8644669218151996
+Dermacentor variabilis,Haemaphysalis leporispalustris,4913,182900,0.02686167304537999
+Dermacentor variabilis,Haemaphysalis longicornis,8396,182900,0.04590486604702023
+Dermacentor variabilis,Ixodes scapularis,3882,182900,0.02122471295790049
+Haemaphysalis leporispalustris,Amblyomma americanum,2353,23900,0.09845188284518828
+Haemaphysalis leporispalustris,Dermacentor variabilis,138,23900,0.005774058577405858
+Haemaphysalis leporispalustris,Haemaphysalis leporispalustris,18998,23900,0.7948953974895397
+Haemaphysalis leporispalustris,Haemaphysalis longicornis,2365,23900,0.09895397489539749
+Haemaphysalis leporispalustris,Ixodes scapularis,46,23900,0.0019246861924686193
+Haemaphysalis longicornis,Amblyomma americanum,3431,23300,0.14725321888412019
+Haemaphysalis longicornis,Dermacentor variabilis,616,23300,0.026437768240343346
+Haemaphysalis longicornis,Haemaphysalis leporispalustris,2405,23300,0.10321888412017168
+Haemaphysalis longicornis,Haemaphysalis longicornis,16312,23300,0.7000858369098713
+Haemaphysalis longicornis,Ixodes scapularis,536,23300,0.023004291845493564
+Ixodes scapularis,Amblyomma americanum,6391,96500,0.0662279792746114
+Ixodes scapularis,Dermacentor variabilis,1409,96500,0.014601036269430052
+Ixodes scapularis,Haemaphysalis leporispalustris,1155,96500,0.011968911917098446
+Ixodes scapularis,Haemaphysalis longicornis,3062,96500,0.03173056994818653
+Ixodes scapularis,Ixodes scapularis,84483,96500,0.8754715025906735

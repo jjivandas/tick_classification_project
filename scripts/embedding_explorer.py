@@ -42,50 +42,44 @@ def _cache_fp(img_path: str) -> Path:
 
 
 def load_data():
-    """Load cleaned dataset and gather specimen-level embeddings + metadata."""
+    """Load cleaned dataset at the IMAGE level (no specimen averaging).
+
+    Each image is its own point in the projection, so 'view' (dorsal/ventral)
+    becomes a metadata field we can color/toggle in the viewer — same as
+    species, sex, etc. This is what lets dorsal and ventral be overlaid.
+    """
     data_path = PROCESSED_DIR / "final_data_cleaned.json"
     with open(data_path) as f:
         records = json.load(f)
     print(f"Loaded {len(records)} image records from {data_path.name}")
 
-    # Group by specimen (average dorsal + ventral embeddings)
-    specimens = defaultdict(lambda: {"embeddings": [], "meta": None})
+    X = []
+    meta_rows = []
     missing = 0
     for rec in records:
-        sid = rec["sample_id"]
         cache_file = _cache_fp(rec["image_path"])
-        if cache_file.exists():
-            emb = np.load(cache_file)
-            specimens[sid]["embeddings"].append(emb)
-            if specimens[sid]["meta"] is None:
-                specimens[sid]["meta"] = {
-                    "sample_id": sid,
-                    "species": rec["true_label"],
-                    "sex": rec["sex"] or "Unknown",
-                    "life_stage": rec["life_stage"] or "Unknown",
-                    "attached": rec["attached"] or "Unknown",
-                    "pathogen": rec["pathogen"] if rec["pathogen"] != "none" else "None",
-                    "pathogen_result": rec["pathogen_result"],
-                    "tick_condition": rec["tick_condition"] or "Unknown",
-                }
-        else:
+        if not cache_file.exists():
             missing += 1
+            continue
+        X.append(np.load(cache_file))
+        meta_rows.append({
+            "sample_id": rec["sample_id"],
+            "species": rec["true_label"],
+            "view": rec["view"],
+            "sex": rec["sex"] or "Unknown",
+            "life_stage": rec["life_stage"] or "Unknown",
+            "attached": rec["attached"] or "Unknown",
+            "pathogen": rec["pathogen"] if rec["pathogen"] != "none" else "None",
+            "pathogen_result": rec["pathogen_result"],
+            "tick_condition": rec["tick_condition"] or "Unknown",
+        })
 
     if missing:
         print(f"Warning: {missing} image embeddings not found in cache")
 
-    # Average embeddings per specimen
-    X = []
-    meta_rows = []
-    for sid, data in specimens.items():
-        if data["embeddings"] and data["meta"]:
-            avg_emb = np.mean(data["embeddings"], axis=0)
-            X.append(avg_emb)
-            meta_rows.append(data["meta"])
-
     X = np.array(X)
     meta_df = pd.DataFrame(meta_rows)
-    print(f"Built {len(X)} specimen embeddings (dim={X.shape[1]})")
+    print(f"Built {len(X)} image-level embeddings (dim={X.shape[1]})")
     return X, meta_df
 
 
@@ -131,13 +125,14 @@ def build_interactive_html(meta_df, tsne_coords, umap_coords, output_path):
     df["umap_x"] = umap_coords[:, 0]
     df["umap_y"] = umap_coords[:, 1]
 
-    # Metadata fields to color by
-    color_fields = ["species", "sex", "life_stage", "attached",
+    # Metadata fields to color by — 'view' lets you overlay dorsal vs ventral
+    color_fields = ["species", "view", "sex", "life_stage", "attached",
                     "pathogen_result", "tick_condition"]
 
     # Nice display names
     field_labels = {
         "species": "Species",
+        "view": "View (dorsal/ventral)",
         "sex": "Sex",
         "life_stage": "Life Stage",
         "attached": "Attached",
@@ -153,6 +148,10 @@ def build_interactive_html(meta_df, tsne_coords, umap_coords, output_path):
             "Haemaphysalis leporispalustris": "#4daf4a",
             "Haemaphysalis longicornis": "#984ea3",
             "Ixodes scapularis": "#ff7f00",
+        },
+        "view": {
+            "dorsal": "#377eb8",
+            "ventral": "#e41a1c",
         },
         "sex": {
             "Female": "#e41a1c",
@@ -210,6 +209,7 @@ def build_interactive_html(meta_df, tsne_coords, umap_coords, output_path):
                     text = (
                         f"<b>{row['species']}</b><br>"
                         f"Sample: {row['sample_id']}<br>"
+                        f"View: {row['view']}<br>"
                         f"Sex: {row['sex']}<br>"
                         f"Life Stage: {row['life_stage']}<br>"
                         f"Condition: {row['tick_condition']}<br>"
@@ -311,7 +311,7 @@ def build_interactive_html(meta_df, tsne_coords, umap_coords, output_path):
 
 def main():
     print("=" * 60)
-    print("  EMBEDDING EXPLORER")
+    print("  EMBEDDING EXPLORER  (image-level, view-as-metadata)")
     print("=" * 60)
 
     # Load data

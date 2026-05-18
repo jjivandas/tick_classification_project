@@ -39,6 +39,8 @@ MIN_SPECIMENS = 50
 
 # Output paths (new files — never overwrite originals)
 OUT_DATA_JSON = PROCESSED_DIR / "final_data_cleaned.json"
+OUT_DORSAL_JSON = PROCESSED_DIR / "dorsal_only_data.json"
+OUT_VENTRAL_JSON = PROCESSED_DIR / "ventral_only_data.json"
 OUT_CLASS_NAMES_JSON = PROCESSED_DIR / "class_names_cleaned.json"
 OUT_SUMMARY_JSON = PROCESSED_DIR / "cleanup_summary.json"
 
@@ -234,6 +236,17 @@ def main():
         json.dump(final_data, f, indent=4)
     log_change("SAVE", f"Wrote {OUT_DATA_JSON.name}")
 
+    # View-only subsets — same record shape, just filtered by view.
+    # Downstream scripts pick one of these three JSONs via their VIEW_MODE knob.
+    dorsal_only = [r for r in final_data if r["view"] == "dorsal"]
+    ventral_only = [r for r in final_data if r["view"] == "ventral"]
+    with open(OUT_DORSAL_JSON, "w") as f:
+        json.dump(dorsal_only, f, indent=4)
+    log_change("SAVE", f"Wrote {OUT_DORSAL_JSON.name} ({len(dorsal_only)} records)")
+    with open(OUT_VENTRAL_JSON, "w") as f:
+        json.dump(ventral_only, f, indent=4)
+    log_change("SAVE", f"Wrote {OUT_VENTRAL_JSON.name} ({len(ventral_only)} records)")
+
     class_names = sorted(set(r["true_label"] for r in final_data))
     with open(OUT_CLASS_NAMES_JSON, "w") as f:
         json.dump(class_names, f, indent=4)
@@ -256,6 +269,8 @@ def main():
         "species_removed": {sp: int(c) for sp, c in removed_species.items()},
         "final_specimens": n_specimens,
         "final_images": n_images,
+        "dorsal_only_records": len(dorsal_only),
+        "ventral_only_records": len(ventral_only),
         "missing_image_specimens": [str(s) for s in missing_images],
         "change_log": CHANGE_LOG,
     }
